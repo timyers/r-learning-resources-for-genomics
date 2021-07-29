@@ -14,5 +14,10 @@
 
 ### Getting Started
 
-- 
+- [RStudio Education](https://education.rstudio.com/learn/) - RStudio provides free and open source tools for `R`, including educational tools.  Choose your `R` learning path: beginner, intermediate, expert.  Resources include cheat sheets, books and tutorials.
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - The tutorials are grouped by skill level (beginner, intermediate, expert).
+
+
+### Getting Help
+
+### Git and Github
