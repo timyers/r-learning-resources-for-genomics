@@ -3,6 +3,7 @@
 <!-- badges: start -->
 
 ![Lifecycle badge](https://img.shields.io/badge/lifecycle-maturing-blue.svg)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/tim_myers.svg?style=social&label=Follow%20%40tim_myers)](https://twitter.com/tim_myers)
 
 <!-- badges: end -->
 
