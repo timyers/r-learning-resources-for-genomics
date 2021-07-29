@@ -16,11 +16,16 @@
 ### Getting Started
 
 - [RStudio Education](https://education.rstudio.com/learn/) - RStudio provides free and open source tools for `R`, including educational tools.  Choose your `R` learning path: beginner, intermediate, expert.  Resources include cheat sheets, books and tutorials.
-- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.
+- [R for Data Science (R4DS)](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.  It’s designed to take you from knowing nothing about `R` or the tidyverse to having all the basic tools of data science at your fingertips. 
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - The tutorials are grouped by skill level (beginner, intermediate, expert).
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
 - [R Programming Examples](https://www.datamentor.io/r-programming/examples/) - This web resource contains examples on basic concepts of `R` programming.
+
+### Learn the Tidyverse
+- [R for Data Science (R4DS)](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.  It’s designed to take you from knowing nothing about `R` or the tidyverse to having all the basic tools of data science at your fingertips.
+- [Statistical Inference via Data Science:  A ModernDive into R and the Tidyverse](https://moderndive.com/index.html) - “Help! I’m new to `R` and `RStudio` and I need to learn them! What do I do?” If you’re asking yourself this, this book is for you.
+
 
 ### What's next
 - [What They Forgot to Teach You About R](https://rstats.wtf/) - Free online resource by Jenny Bryan and Jim Hester.  The material is based on in-person workshops that focused on building holistic and project-oriented workflows that address the most common sources of friction in data analysis, outside of doing the statistical analysis itself.
