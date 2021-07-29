@@ -12,7 +12,7 @@
 
 <br>
 
-### For the Beginner
+### Getting Started
 
-- [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) - This PDF by Emmanuel Paradis is a good starting point for those newly interested in learning R.
+- 
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - The tutorials are grouped by skill level (beginner, intermediate, expert).
