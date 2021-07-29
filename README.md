@@ -16,6 +16,7 @@
 ### Getting Started
 
 - [RStudio Education](https://education.rstudio.com/learn/) - RStudio provides free and open source tools for `R`, including educational tools.  Choose your `R` learning path: beginner, intermediate, expert.  Resources include cheat sheets, books and tutorials.
+- [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - The tutorials are grouped by skill level (beginner, intermediate, expert).
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
