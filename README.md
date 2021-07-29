@@ -9,7 +9,7 @@
 
 <br>
 
-> The `R Learning Resources for Genomics` repository is a curated collection of free resources to help the aspiring computational biologist learn about the `R` programming language. `R` is a free and open source language for statistical analyses and graphics. Biology and medicine generate an enormous amount data than ever before. Data analysis skills and understanding of computational genomics is more important than ever.
+> The `R Learning Resources for Genomics` repository is a curated collection of free resources to help the aspiring computational biologist learn about the `R` programming language. `R` is a free and open source language for statistical analyses and graphics. Biology and medicine generate more data than ever before. Data analysis skills and understanding of computational genomics is more important than ever.
 
 <br>
 
@@ -25,6 +25,7 @@
 ### Learn the Tidyverse
 - [R for Data Science (R4DS)](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.  It’s designed to take you from knowing nothing about `R` or the tidyverse to having all the basic tools of data science at your fingertips.
 - [Statistical Inference via Data Science:  A ModernDive into R and the Tidyverse](https://moderndive.com/index.html) - “Help! I’m new to `R` and `RStudio` and I need to learn them! What do I do?” If you’re asking yourself this, this book is for you.
+- [ggplot2: elegant graphics for data science](https://ggplot2-book.org/index.html) - This book by Hadley Wickham goes into greater depth into the ggplot2 visualisation system.  `ggplot2` is an `R` package for producing statistical, or data, graphics.
 
 
 ### What's next
