@@ -26,6 +26,7 @@
 ### Learn the Tidyverse
 - [R for Data Science (R4DS)](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.  It’s designed to take you from knowing nothing about `R` or the tidyverse to having all the basic tools of data science at your fingertips.
      - [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) - This book contains the exercise solutions for the book `R` for Data Science, by Hadley Wickham and Garret Grolemund (Wickham and Grolemund 2017).
+- [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - `RStudio` cheatsheets make it easy to use some of our favorite `R` packages. New cheatsheets are added from time to time.
 - [Statistical Inference via Data Science:  A ModernDive into R and the Tidyverse](https://moderndive.com/index.html) - “Help! I’m new to `R` and `RStudio` and I need to learn them! What do I do?” If you’re asking yourself this, this book is for you.
 - [ggplot2: elegant graphics for data science](https://ggplot2-book.org/index.html) - This book by Hadley Wickham goes into greater depth into the ggplot2 visualisation system.  `ggplot2` is an `R` package for producing statistical, or data, graphics.
 
