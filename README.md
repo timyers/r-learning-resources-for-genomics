@@ -50,6 +50,7 @@
 - [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/) - Following `R` news helps you learn about new tools and their applications
 
 ### Reproducibility
+- [orderly](https://www.vaccineimpact.org/orderly/articles/orderly.html) - `orderly` is a package designed to help make analysis more reproducible. Its principal aim is to automate a series of basic steps in the process of writing analyses.
 
 ### R Markdown
 
