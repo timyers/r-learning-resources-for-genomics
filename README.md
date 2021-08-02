@@ -42,6 +42,8 @@
 
 ### Getting Help
 
+- [Getting Help with `R`](https://www.r-project.org/help.html) - An article from the `R Project` that describes the extensive facilities for accessing documentation and searching for help.
+
 
 ### Genomics
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
