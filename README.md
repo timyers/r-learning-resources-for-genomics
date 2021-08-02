@@ -65,14 +65,18 @@
 ### R Markdown
 - [Up and running with `officedown`](https://alison.rbind.io/blog/2021-07-officedown/?s=09) - A blog article by Alison Hill that describes the `officedown` package which allows users to write Word and Powerpoint documents using `R Markdown`.
 
+### Shiny
+- [`Shiny` from RStudio](https://shiny.rstudio.com/) - Get started with `Shiny`, an `R` package to build interactive web apps straight from `R`.
+- [Mastering Shiny](https://mastering-shiny.org/index.html) - The online version of the book by Hadley Wickham for to get you writing `Shiny` apps quickly.
+- [Outstanding User Interfaces with `Shiny`](https://unleash-shiny.rinterface.com/index.html) - A book for experienced `Shiny` users who want to learn more about the underlying web technologies.
+
 ### Git and Version Control
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) - This article by Jennifer Bryan describes the use of the version control system Git and and the hosting site GitHub for statistical and data scientific workflows. Special attention is given to projects that use the statistical language R and, optionally, R Markdown documents.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - An online book that introduces Git, GitHub and version control.
 
 ### Other
 - [grateful](https://github.com/Pakillo/grateful?s=09) - The goal of `grateful` is to make it very easy to cite the `R` packages used in any report or publication.
-- [`Shiny` from RStudio](https://shiny.rstudio.com/) - Get started with `Shiny`, an `R` package to build interactive web apps straight from `R`.  
-- [Outstanding User Interfaces with `Shiny`](https://unleash-shiny.rinterface.com/index.html) - A book for experienced `Shiny` users who want to learn more about the underlying web technologies.
+
 
 
 ### Reference
