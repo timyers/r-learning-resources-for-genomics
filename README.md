@@ -45,7 +45,7 @@
 
 ### Continuous Learning
 - [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) - A weekly social data project in `R`.  Every Monday they release a new dataset on the [TidyTuesday Github page](https://github.com/rfordatascience/tidytuesday) for participants to clean, wrangle, tidy, and plot.
-- [Twitter for R programmers](https://www.t4rstats.com/index.html) - The R community is very active on Twitter. You can learn a lot about the language, about new approaches to problems, and make new friends.
+- [Twitter for R programmers](https://www.t4rstats.com/index.html) - The R community is very active on Twitter. You can learn a lot about the language, about new approaches to problems, and make new friends.  This online book will show you how.
 
 ### Reproducibility
 
