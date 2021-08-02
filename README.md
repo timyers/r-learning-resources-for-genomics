@@ -50,7 +50,8 @@
 - [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/) - Following `R` news helps you learn about new tools and their applications
 
 ### Reproducibility
-- [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/) - 
+- [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
+- [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/) - A workshop that discusses `R` and `Rstudio` tools and conventions that offer a powerful framework for making modern, open, reproducible and collaborative computational workflows more accessible to researchers.
 - [orderly](https://www.vaccineimpact.org/orderly/articles/orderly.html) - `orderly` is a package designed to help make analysis more reproducible. Its principal aim is to automate a series of basic steps in the process of writing analyses.
 - [Draw me a project](https://masalmon.eu/2021/06/30/r-projects/) - A great blog post by Maëlle Salmon about reproducibility.
 
