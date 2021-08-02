@@ -14,7 +14,7 @@
 
 <br>
 
-### Getting Started
+### Getting Started with `R`
 
 - [RStudio Education](https://education.rstudio.com/learn/) - RStudio provides free and open source tools for `R`, including educational tools.  Choose your `R` learning path: beginner, intermediate, expert.  Resources include cheat sheets, books and tutorials.
 - [R for Data Science (R4DS)](https://r4ds.had.co.nz/) - This book will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.  It’s designed to take you from knowing nothing about `R` or the tidyverse to having all the basic tools of data science at your fingertips.
@@ -40,6 +40,7 @@
 
 ### Genomics
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
+- [Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html) - An online course (2021) that is taught through the University of Camgridge [Bioinformatics training unit](https://training.csx.cam.ac.uk/bioinformatics/).  This course discusses some of the questions that can be addressed using scRNA-seq as well as the available computational and statistical methods available. 
 - [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/) - A course (2019) from the Broad Institute that is aimed at researchers and technical workers who are or will be analyzing single cell RNA-seq data.
 
 ### Continuous Learning
