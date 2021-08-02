@@ -43,6 +43,7 @@
 - [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/) - A course (2019) from the Broad Institute that is aimed at researchers and technical workers who are or will be analyzing single cell RNA-seq data.
 
 ### Continuous Learning
+-[TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) - A weekly social data project in `R`.  Every Monday they release a new dataset on the [TidyTuesday Github page](https://github.com/rfordatascience/tidytuesday.) for participants to clean, wrangle, tidy, and plot.
 
 ### Reproducibility
 
