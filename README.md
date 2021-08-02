@@ -59,7 +59,7 @@
 - [Draw me a project](https://masalmon.eu/2021/06/30/r-projects/) - A great blog post by Maëlle Salmon about reproducibility.
 
 ### R Markdown
--[Up and running with `officedown`](https://alison.rbind.io/blog/2021-07-officedown/?s=09) - A blog article by Alison Hill that describes the `officedown` package which allows users to write Word and Powerpint documents using `R Markdown`.
+- [Up and running with `officedown`](https://alison.rbind.io/blog/2021-07-officedown/?s=09) - A blog article by Alison Hill that describes the `officedown` package which allows users to write Word and Powerpint documents using `R Markdown`.
 
 ### Git and Version Control
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) - This article by Jennifer Bryan describes the use of the version control system Git and and the hosting site GitHub for statistical and data scientific workflows. Special attention is given to projects that use the statistical language R and, optionally, R Markdown documents.
