@@ -55,3 +55,9 @@
 ### Git and Version Control
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) - This article by Jennifer Bryan describes the use of the version control system Git and and the hosting site GitHub for statistical and data scientific workflows. Special attention is given to projects that use the statistical language R and, optionally, R Markdown documents.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - An online book that introduces Git, GitHub and version control.
+
+### Other
+
+
+### Reference
+
