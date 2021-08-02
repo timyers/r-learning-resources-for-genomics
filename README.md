@@ -35,6 +35,7 @@
 ### What's next
 - [What They Forgot to Teach You About R](https://rstats.wtf/) - Free online resource by Jenny Bryan and Jim Hester.  The material is based on in-person workshops that focused on building holistic and project-oriented workflows that address the most common sources of friction in data analysis, outside of doing the statistical analysis itself.
 - [Advanced R (2nd Edition)](https://adv-r.hadley.nz/index.html) - This is the website for the 2nd edition of `Advanced R`, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why `R` works the way it does.
+- [eastystats](https://github.com/easystats/easystats) - easystats is a collection of R packages that provides a consistent framework to harness R statistics. 
 
 ### Getting Help
 
