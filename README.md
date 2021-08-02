@@ -37,8 +37,10 @@
 - [Advanced R (2nd Edition)](https://adv-r.hadley.nz/index.html) - This is the website for the 2nd edition of `Advanced R`, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why `R` works the way it does.
 - [eastystats](https://github.com/easystats/easystats) - easystats is a collection of R packages that provides a consistent framework to harness R statistics.
 - [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) - An article by Jenny Bryan that includes advice on setting up your R life to maximize effectiveness and reduce frustration.
+- [“Do More with R” video tutorials](infoworld.com/article/3411819/do-more-with-r-video-tutorials.html) - An article by Sharon Machlis about quick video tips on useful things you can do in `R`.  Most videos are shorter than 10 minutes.
 
 ### Getting Help
+
 
 ### Genomics
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
