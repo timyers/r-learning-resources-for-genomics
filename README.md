@@ -64,6 +64,7 @@
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - An online book that introduces Git, GitHub and version control.
 
 ### Other
+- [grateful](https://github.com/Pakillo/grateful?s=09) - The goal of `grateful` is to make it very easy to cite the `R` packages used in any report or publication.
 
 
 ### Reference
