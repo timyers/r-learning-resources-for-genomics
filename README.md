@@ -66,6 +66,7 @@
 
 ### R Markdown
 - [Up and running with `officedown`](https://alison.rbind.io/blog/2021-07-officedown/?s=09) - A blog article by Alison Hill that describes the `officedown` package which allows users to write Word and Powerpoint documents using `R Markdown`.
+- [`bookdwown` package](https://github.com/rstudio/bookdown) - An `R` package to facilitate writing books and long-form articles/reports with R Markdown.
 
 ### Shiny
 - [`Shiny` from RStudio](https://shiny.rstudio.com/) - Get started with `Shiny`, an `R` package to build interactive web apps straight from `R`.
