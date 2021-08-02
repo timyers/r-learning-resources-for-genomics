@@ -79,6 +79,7 @@
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - An online book that introduces Git, GitHub and version control.
 
 ### Other
+- [Making Your Code Citable](https://guides.github.com/activities/citable-code/#create) - If you’re a researcher writing software, this guide will show you how to make the work you share on GitHub citable by archiving one of your GitHub repositories and assigning a [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI) with the data archiving tool [Zenodo](https://about.zenodo.org/).
 - [grateful](https://github.com/Pakillo/grateful?s=09) - The goal of `grateful` is to make it very easy to cite the `R` packages used in any report or publication.
 
 
