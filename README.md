@@ -50,6 +50,7 @@
 
 ### Genomics
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
+- [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/) - The goal of this book is to provide a solid foundation in the usage of Bioconductor tools for single-cell RNA-seq analysis by walking through various steps of typical workflows using example datasets.
 - [Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html) - An online course (2021) that is taught through the University of Camgridge [Bioinformatics training unit](https://training.csx.cam.ac.uk/bioinformatics/).  This course discusses some of the questions that can be addressed using scRNA-seq as well as the available computational and statistical methods available. 
 - [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/) - A course (2019) from the Broad Institute that is aimed at researchers and technical workers who are or will be analyzing single cell RNA-seq data.
 - [Manhattan plot in R: a review](http://www.r-graph-gallery.com/101_Manhattan_plot.html?s=09) - An article about creating a Manhattan plot with `R`.
