@@ -38,6 +38,7 @@
 - [Advanced R (2nd Edition)](https://adv-r.hadley.nz/index.html) - This is the website for the 2nd edition of `Advanced R`, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why `R` works the way it does.
 - [eastystats](https://github.com/easystats/easystats) - easystats is a collection of R packages that provides a consistent framework to harness R statistics.
 - [Get Started with Bayesian Analysis](https://easystats.github.io/bayestestR/articles/bayestestR.html) - A vignette describing the Bayesian framework for statistics, including examples in `R`.
+- [Supervised Machine Learning for Text Analysis in `R`](https://smltar.com/) - This book serves as a thorough introduction to prediction and modeling with text, along with detailed practical examples.
 - [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) - An article by Jenny Bryan that includes advice on setting up your R life to maximize effectiveness and reduce frustration.
 - [“Do More with R” video tutorials](infoworld.com/article/3411819/do-more-with-r-video-tutorials.html) - An article by Sharon Machlis about quick video tips on useful things you can do in `R`.  Most videos are shorter than 10 minutes.
 
