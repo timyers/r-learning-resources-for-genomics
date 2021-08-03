@@ -70,7 +70,7 @@
 - [`groundhog`](http://groundhogr.com/using/) - Write `R` scripts that are reproducible using the `groundhog` package.
 - [Draw me a project](https://masalmon.eu/2021/06/30/r-projects/) - A great blog post by Maëlle Salmon about reproducibility.
 
-### R Markdown
+### Markdown & R Markdown
 - [R Markdown from RStudio](https://rmarkdown.rstudio.com/lesson-1.html) - Getting started with `R Markdown`.
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) - An online reference book for `R Markdown`.  
 - [Up and running with `officedown`](https://alison.rbind.io/blog/2021-07-officedown/?s=09) - A blog article by Alison Hill that describes the `officedown` package which allows users to write Word and Powerpoint documents using `R Markdown`.
