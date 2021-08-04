@@ -34,12 +34,12 @@
 ### Beyond the basics
 - [What They Forgot to Teach You About R](https://rstats.wtf/) - Free online resource by Jenny Bryan and Jim Hester.  The material is based on in-person workshops that focused on building holistic and project-oriented workflows that address the most common sources of friction in data analysis, outside of doing the statistical analysis itself.
 - [Advanced R (2nd Edition)](https://adv-r.hadley.nz/index.html) - This is the website for the 2nd edition of `Advanced R`, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as help you to understand why `R` works the way it does.
-- [eastystats](https://github.com/easystats/easystats) - easystats is a collection of R packages that provides a consistent framework to harness R statistics.
-- [Get Started with Bayesian Analysis](https://easystats.github.io/bayestestR/articles/bayestestR.html) - A vignette describing the Bayesian framework for statistics, including examples in `R`.
-- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) - This book serves as a thorough introduction to prediction and modeling with text, along with detailed practical examples.
-- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/?s=09) - The primary goal of `Bayes Rules!` is to make modern Bayesian thinking, modeling, and computing accessible to a broader audience.
-- [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) - An article by Jenny Bryan that includes advice on setting up your R life to maximize effectiveness and reduce frustration.
 - [“Do More with R” video tutorials](infoworld.com/article/3411819/do-more-with-r-video-tutorials.html) - An article by Sharon Machlis about quick video tips on useful things you can do in `R`.  Most videos are shorter than 10 minutes.
+- [eastystats](https://github.com/easystats/easystats) - `easystats` is a collection of R packages that provides a consistent framework to harness R statistics.
+- [Get Started with Bayesian Analysis](https://easystats.github.io/bayestestR/articles/bayestestR.html) - A vignette describing the Bayesian framework for statistics, including examples in `R`.
+- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/?s=09) - The primary goal of `Bayes Rules!` is to make modern Bayesian thinking, modeling, and computing accessible to a broader audience.
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) - This book serves as a thorough introduction to prediction and modeling with text, along with detailed practical examples.
+- [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) - An article by Jenny Bryan that includes advice on setting up your R life to maximize effectiveness and reduce frustration.
 
 ### Getting Help
 
