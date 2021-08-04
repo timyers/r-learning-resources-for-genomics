@@ -39,6 +39,7 @@
 - [Get Started with Bayesian Analysis](https://easystats.github.io/bayestestR/articles/bayestestR.html) - A vignette describing the Bayesian framework for statistics, including examples in `R`.
 - [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/?s=09) - The primary goal of `Bayes Rules!` is to make modern Bayesian thinking, modeling, and computing accessible to a broader audience.
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) - This book serves as a thorough introduction to prediction and modeling with text, along with detailed practical examples.
+- [JavaScript for R](https://book.javascript-for-r.com/) - This book delves into the various ways both the `R` and javaScript languages can work together.
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) - Geocomputation with `R` is for people who want to analyze, visualize and model geographic data. 
 - [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) - An article by Jenny Bryan that includes advice on setting up your R life to maximize effectiveness and reduce frustration.
 
