@@ -72,6 +72,7 @@
 - [Packaging Data Analytical Work Reproducibly Using R](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375986?journalCode=utas20&) - The purpose of this article is to show how the R package can be a suitable template for organising files into a research compendium to enhance the reproducibility of research.
 - [orderly](https://www.vaccineimpact.org/orderly/articles/orderly.html) - `orderly` is a package designed to help make analysis more reproducible. Its principal aim is to automate a series of basic steps in the process of writing analyses.
 - [groundhog](http://groundhogr.com/using/) - Write `R` scripts that are reproducible using the `groundhog` package.
+- [renv](www.rstudio.github.io/renv/) - The `renv` package helps you create reproducible environments for `R` projects.
 - [Draw me a project](https://masalmon.eu/2021/06/30/r-projects/) - A great blog post by Maëlle Salmon about reproducibility.
 
 ### Markdown & R Markdown
