@@ -25,6 +25,7 @@
 - [R Programming Examples](https://www.datamentor.io/r-programming/examples/) - This web resource contains examples on basic concepts of `R` programming.
 
 ### Learn the Tidyverse
+- [Tidyverse](https://www.tidyverse.org/) - The tidyverse is a collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
 - [R for Data Science (R4DS)](https://adv-r.hadley.nz/index.html) - This book by Hadley Wickham will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.  It’s designed to take you from knowing nothing about `R` or the tidyverse to having all the basic tools of data science at your fingertips.  [Find exercise solutions for R4DS here.](https://jrnold.github.io/r4ds-exercise-solutions/)
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - `RStudio` cheatsheets make it easy to use some of our favorite `R` packages.
 - [Statistical Inference via Data Science:  A ModernDive into R and the Tidyverse](https://moderndive.com/index.html) - “Help! I’m new to `R` and `RStudio` and I need to learn them! What do I do?” If you’re asking yourself this, this book is for you.
