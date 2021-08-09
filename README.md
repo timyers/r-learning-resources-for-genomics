@@ -110,8 +110,7 @@ All are welcome to contribute to this curated list.  The best way is by
 using the `GitHub` issues system.  Pull Requests for contributions or
 suggestions are also welcome.
 
-Here are some simple ways in which you can contribute (in the increasing
-order of commitment):
+Here are some simple ways in which you can contribute:
 
 -   Correct any typos.
     
