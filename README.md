@@ -52,6 +52,7 @@
 - [Getting Help with `R`](https://www.r-project.org/help.html) - An article from the `R Project` that describes the extensive facilities for accessing documentation and searching for help.
 - [Get Help!](https://www.tidyverse.org/help/#reprex) - If you need help, the first step is to create a `reprex`, or reproducible example....learn how.
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - `RStudio` cheatsheets make it easy to use some of our favorite `R` packages.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/r) - Find the best answers to your `R` questions and help others with theirs.
 
 
 ### Genomics
