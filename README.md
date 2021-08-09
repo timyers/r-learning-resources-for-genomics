@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/timyers?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2Ftimyers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tim_myers?label=Follow%20%40tim_myers&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/tim_myers)
 [![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/timyers/r-learning-resources-for-genomics/issues)
-[![Licence](https://img.shields.io/badge/license-CC0 1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License](https://img.shields.io/badge/license-CC0%201.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <!-- badges: end -->
 
