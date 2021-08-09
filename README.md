@@ -112,7 +112,7 @@ suggestions are also welcome.
 
 Here are some simple ways in which you can contribute:
 
--   Correct any typos.
+-   Correct typos.
     
 -   Report and fix any links that do not work.
 
