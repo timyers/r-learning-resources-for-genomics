@@ -127,10 +127,10 @@ order of commitment):
 -   Propose removal of a learning resource that is out of date.
 
 Please note that this list is released with a [Contributor Code of
-Conduct]().
+Conduct](https://github.com/timyers/r-learning-resources-for-genomics/blob/main/CODE_OF_CONDUCT.md).
 By participating in this project you agree to abide by its terms.
 
 Thank you!
 
-### Reference
+### References
 
