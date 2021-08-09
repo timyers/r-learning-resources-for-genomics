@@ -65,6 +65,7 @@
 ### Continuous Learning
 - [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) - A weekly social data project in `R`.  Every Monday they release a new dataset on the [TidyTuesday Github page](https://github.com/rfordatascience/tidytuesday) for participants to clean, wrangle, tidy, and plot.
 - [Twitter for R programmers](https://www.t4rstats.com/index.html) - The R community is very active on Twitter. You can learn a lot about the language, about new approaches to problems, and make new friends.  This online book will show you how.
+- - [R Weekly](https://rweekly.org/about) - R is growing very quickly, and there are lots of great blogs, tutorials and other formats of resources coming out every day. R Weekly wants to keep track of these great things in the R community and make it more accessible to everyone.
 - [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/) - Following `R` news helps you learn about new tools and their applications.
 - [RStudio Books](https://www.rstudio.com/resources/books/) - In addition to software tools, RStudio has also authored many books, some already highlighted in this curated list.  Another tool for your toolbox.
 
