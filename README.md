@@ -109,11 +109,6 @@
 All are welcome to contribute to this curated list.  The best way is by
 using the `GitHub` issues system.  Pull Requests for contributions or
 suggestions are also welcome.
-I’m happy to receive bug reports, suggestions, questions, and (most of
-all) contributions to fix problems and add features. I personally prefer
-using the `GitHub` issues system over trying to reach out to me in other
-ways (personal e-mail, Twitter, etc.). Pull Requests for contributions
-are encouraged.
 
 Here are some simple ways in which you can contribute (in the increasing
 order of commitment):
