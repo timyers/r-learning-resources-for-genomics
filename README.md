@@ -122,7 +122,7 @@ Here are some simple ways in which you can contribute:
 
 Please note that this list is released with a [Contributor Code of
 Conduct](https://github.com/timyers/r-learning-resources-for-genomics/blob/main/CODE_OF_CONDUCT.md).
-By participating in this project you agree to abide by its terms.
+By participating you agree to abide by its terms.
 
 Thank you!
 
