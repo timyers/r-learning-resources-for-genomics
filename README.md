@@ -81,6 +81,7 @@
 - [R Markdown from RStudio](https://rmarkdown.rstudio.com/lesson-1.html) - Getting started with `R Markdown`.
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) - `R Markdown` is a powerful tool for combining analysis and reporting into the same document.  This book provides practical and short examples to show the interesting and useful usage of R Markdown.
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) - An online reference book for `R Markdown`.  And provides a detailed reference on the built-in `R Markdown` output formats of the `rmarkdown` package, as well as several other extension packages.
+- [Visual R Markdown](https://rstudio.github.io/visual-markdown-editing/?_ga=2.75875613.906511098.1628520305-780811595.1628176381) - RStudio v1.4 includes a new visual markdown editing mode.
 - [Up and running with `officedown`](https://alison.rbind.io/blog/2021-07-officedown/?s=09) - A blog article by Alison Hill that describes the `officedown` package which allows users to write Word and Powerpoint documents using `R Markdown`.
 - [bookdwown](https://github.com/rstudio/bookdown) - An `R` package to facilitate writing books and long-form articles/reports with R Markdown.
 
