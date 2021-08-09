@@ -104,7 +104,33 @@
 - [Making Your Code Citable](https://guides.github.com/activities/citable-code/#create) - If you’re a researcher writing software, this guide will show you how to make the work you share on GitHub citable by archiving one of your GitHub repositories and assigning a [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI) with the data archiving tool [Zenodo](https://about.zenodo.org/).
 - [grateful](https://github.com/Pakillo/grateful?s=09) - The goal of `grateful` is to make it very easy to cite the `R` packages used in any report or publication.
 
+# Contributing
 
+All are welcome to contribute to this curated list.  The best way is by
+using the `GitHub` issues system.  Pull Requests for contributions or
+suggestions are also welcome.
+I’m happy to receive bug reports, suggestions, questions, and (most of
+all) contributions to fix problems and add features. I personally prefer
+using the `GitHub` issues system over trying to reach out to me in other
+ways (personal e-mail, Twitter, etc.). Pull Requests for contributions
+are encouraged.
+
+Here are some simple ways in which you can contribute (in the increasing
+order of commitment):
+
+-   Correct any typos.
+    
+-   Report and fix any links that do not work.
+
+-   Suggest a new learning resource that could benefit others.
+
+-   Propose removal of a learning resource that is out of date.
+
+Please note that this list is released with a [Contributor Code of
+Conduct]().
+By participating in this project you agree to abide by its terms.
+
+Thank you!
 
 ### Reference
 
