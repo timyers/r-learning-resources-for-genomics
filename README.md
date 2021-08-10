@@ -92,7 +92,7 @@
 - [bookdwown](https://github.com/rstudio/bookdown) - An `R` package to facilitate writing books and long-form articles/reports with R Markdown.
 
 ### Anti-R
-- [jamovi](https://www.jamovi.org/) - A free and open point-and-click statistical program.  jamovi is built on top of the `R` making it easy to access the code for your analysis. 
+- [jamovi](https://www.jamovi.org/) - A free and open point-and-click statistical program.  jamovi is built on top of the `R` statistical language making it easy to access the code for your analysis. 
 - [JASP](https://jasp-stats.org/) - JASP is an open-source statistical package that facilitates both Bayesian and Frequentist analyses using a graphical interface.
 - [sandbox.bio](https://sandbox.bio/) - An interactive tool for learning bioinformatics command-line tools like bedtools, bowtie2, and samtools right from inside your web browser.
 
