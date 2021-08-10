@@ -93,6 +93,7 @@
 
 ### Anti-R
 - [JASP](https://jasp-stats.org/) - JASP is an open-source statistical package that facilitates both Bayesian and Frequentist analyses using a graphical interface.
+- [jamovi](https://www.jamovi.org/) - A free and open point-and-click statistical program.
 - [sandbox.bio](https://sandbox.bio/) - An interactive tool for learning bioinformatics command-line tools like bedtools, bowtie2, and samtools right from inside your web browser.
 
 ### Shiny
