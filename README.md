@@ -98,7 +98,7 @@
 
 ### Shiny
 - [`Shiny` from RStudio](https://shiny.rstudio.com/) - Get started with `Shiny`, an `R` package to build interactive web apps straight from `R`.
-- [Mastering Shiny](https://mastering-shiny.org/index.html) - The online version of the book by Hadley Wickham for to get you writing `Shiny` apps quickly.
+- [Mastering Shiny](https://mastering-shiny.org/index.html) - The online version of the book by Hadley Wickham to get you writing `Shiny` apps quickly.
 - [Outstanding User Interfaces with `Shiny`](https://unleash-shiny.rinterface.com/index.html) - A book for experienced `Shiny` users who want to learn more about the underlying web technologies.
 
 ### Git and Version Control
