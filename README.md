@@ -91,6 +91,9 @@
 - [Up and running with `officedown`](https://alison.rbind.io/blog/2021-07-officedown/?s=09) - A blog article by Alison Hill that describes the `officedown` package which allows users to write Word and Powerpoint documents using `R Markdown`.
 - [bookdwown](https://github.com/rstudio/bookdown) - An `R` package to facilitate writing books and long-form articles/reports with R Markdown.
 
+### Anti-R
+- [sandbox.bio](https://sandbox.bio/) - An interactive tool for learning bioinformatics command-line tools like bedtools, bowtie2, and samtools right from inside your web browser.
+
 ### Shiny
 - [`Shiny` from RStudio](https://shiny.rstudio.com/) - Get started with `Shiny`, an `R` package to build interactive web apps straight from `R`.
 - [Mastering Shiny](https://mastering-shiny.org/index.html) - The online version of the book by Hadley Wickham for to get you writing `Shiny` apps quickly.
