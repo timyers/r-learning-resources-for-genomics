@@ -51,7 +51,7 @@
 - [JavaScript for R](https://book.javascript-for-r.com/) - Little known fact, `R` works just as well with JavaScript!  This book delves into the various ways both the `R` and JavaScript languages can work together.
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) - Geocomputation with `R` is for people who want to analyze, visualize and model geographic data. 
 
-### Getting Help
+### Finding Help with `R`
 
 - [Getting Help with `R`](https://www.r-project.org/help.html) - An article from the `R Project` that describes the extensive facilities for accessing documentation and searching for help.
 - [Get Help!](https://www.tidyverse.org/help/#reprex) - If you need help, the first step is to create a `reprex`, or reproducible example....learn how.
