@@ -93,7 +93,7 @@
 
 ### Anti-R
 - [jamovi](https://www.jamovi.org/) - A free and open-source point-and-click statistical program.  jamovi is built on top of the `R` statistical language making it easy to access the code underneath for your analysis. 
-- [JASP](https://jasp-stats.org/) - JASP is an open-source statistical package that facilitates both Bayesian and Frequentist analyses using a graphical interface.
+- [JASP](https://jasp-stats.org/) - JASP is an open-source statistical package that uses a graphical interface to facilitate both Bayesian and Frequentist analyses.
 - [sandbox.bio](https://sandbox.bio/) - An interactive tool for learning bioinformatics command-line tools like bedtools, bowtie2, and samtools right from inside your web browser.
 - [Polygenic Risk Score (PRS) Tutorial](https://choishingwan.github.io/PRS-Tutorial/) - This tutorial provides a step-by-step guide to performing basic polygenic risk score (PRS) analyses.
 
