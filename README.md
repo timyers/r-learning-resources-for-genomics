@@ -18,6 +18,7 @@
 
 ### Getting Started with `R`
 
+- [Big Book of R](https://www.bigbookofr.com/index.html) - 200+ `R` books, most are free.
 - [RStudio Education](https://education.rstudio.com/learn/) - RStudio provides free and open source tools for `R`, including educational tools.  Choose your `R` learning path: beginner, intermediate, expert.  Resources include cheatsheets, books and tutorials.
 - [R for Data Science (R4DS)](https://adv-r.hadley.nz/index.html) - This book by Hadley Wickham will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.  It’s designed to take you from knowing nothing about `R` or the tidyverse (see below) to having all the basic tools of data science at your fingertips.  [Find exercise solutions for R4DS here.](https://jrnold.github.io/r4ds-exercise-solutions/)
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/) - This book by Rafael A. Irizarry which started out as the class notes used in the HarvardX Data Science Series introduces concepts and skills that can help you tackle real-world data analysis challenges.
