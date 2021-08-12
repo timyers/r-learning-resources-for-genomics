@@ -119,7 +119,8 @@
 
 ### Miscellaneous
 
--[HTTP testing in R](https://books.ropensci.org/http-testing/index.html) - This book is meant to be a free, central reference for developers of `R` packages accessing web resources.
+- [HTTP testing in R](https://books.ropensci.org/http-testing/index.html) - This book is meant to be a free, central reference for developers of `R` packages accessing web resources.
+- [Get Better At Testing Your R Package](https://http-testing-r.netlify.app/) - This tutorial is about advanced testing of `R` packages, with HTTP testing as a case study.
 
 ### Contributing
 
