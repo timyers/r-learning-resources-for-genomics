@@ -111,7 +111,7 @@
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) - This article by Jennifer Bryan describes the use of the version control system Git and and the hosting site GitHub for statistical and data scientific workflows. Special attention is given to projects that use the statistical language R and, optionally, R Markdown documents.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - An online book that introduces Git, GitHub and version control.
 - [GitHub actions with R]() - This book introduces GitHub actions, which help you automate tasks within your software development life cycle.  More information available from [GitHub Actions Documentation.](https://docs.github.com/en/actions)
-- [gert](https://cran.r-project.org/web/packages/gert/vignettes/gert.html) - `gert` is a simple git client based on [‘libgit2’](libgit2.org).  What this means for `R` users is that you can work with local and remote Git repositories from the comfort of `R`!
+- [gert](https://cran.r-project.org/web/packages/gert/vignettes/gert.html) - The `gert` package is a simple git client based on [‘libgit2’](libgit2.org).  What this means for `R` users is that you can work with local and remote Git repositories from the comfort of `R`!
 
 ### Other
 - [Making Your Code Citable](https://guides.github.com/activities/citable-code/#create) - If you’re a researcher writing software, this guide will show you how to make the work you share on GitHub citable by archiving one of your GitHub repositories and assigning a [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI) with the data archiving tool [Zenodo](https://about.zenodo.org/).
