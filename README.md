@@ -83,6 +83,7 @@
 - [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/) - A workshop that discusses `R` and `Rstudio` tools and conventions that offer a powerful framework for making modern, open, reproducible and collaborative computational workflows more accessible to researchers.
 - [Packaging Data Analytical Work Reproducibly Using R](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375986?journalCode=utas20&) - The purpose of this article is to show how the R package can be a suitable template for organising files into a research compendium to enhance the reproducibility of research.
 - [orderly](https://www.vaccineimpact.org/orderly/articles/orderly.html) - `orderly` is a package designed to help make analysis more reproducible. Its principal aim is to automate a series of basic steps in the process of writing analyses.
+- [How to name files](https://speakerdeck.com/jennybc/how-to-name-files) - Slide deck from Jenny Bryan about the why's and how's of naming files.
 - [groundhog](http://groundhogr.com/using/) - Write `R` scripts that are reproducible using the `groundhog` package.
 - [renv](https://rstudio.github.io/renv/) - The `renv` package helps you create reproducible environments for `R` projects.
 - [Draw me a project](https://masalmon.eu/2021/06/30/r-projects/) - A great blog post by Maëlle Salmon about reproducibility.
@@ -123,6 +124,7 @@
 - [HTTP testing in R](https://books.ropensci.org/http-testing/index.html) - This book is meant to be a free, central reference for developers of `R` packages accessing web resources.
 - [Get Better At Testing Your R Package](https://http-testing-r.netlify.app/) - This tutorial is about advanced testing of `R` packages, with HTTP testing as a case study.  Companion video tutorial available [here](https://www.youtube.com/watch?v=tzQGg1kAzGs&list=PL4IzsxWztPdnCC_kMCYKrd_t6cViMhBrD&index=13).
 - [How to create your personal CRAN-like repository](https://ropensci.org/blog/2021/06/22/setup-runiverse/) - The [r-universe](https://r-universe.dev/) platform provides users and organizations with a personal CRAN-like repository for publishing software, rmarkdown articles, and other content that fits in an `R` package.
+- [How to name files](https://speakerdeck.com/jennybc/how-to-name-files) - Slide deck from Jenny Bryan about the why's and how's of naming files.
 
 ### Contributing
 
