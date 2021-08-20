@@ -54,7 +54,7 @@
 
 ### Finding Help with `R`
 
-- [Getting Help with `R`](https://www.r-project.org/help.html) - An article from the `R Project` that describes the extensive facilities for accessing documentation and searching for help.
+- [Getting Help with R](https://www.r-project.org/help.html) - An article from the `R Project` that describes the extensive facilities for accessing documentation and searching for help.
 - [What do you do when R code throws an unexpected error?](https://adv-r.hadley.nz/debugging.html) - This chapter of Hadley Wickham's `Advanced R` (see above) will give a general strategy for finding help with those obscure error messages.
 - [R Error Message Cheat Sheet](http://varianceexplained.org/courses/errors/) - A blog post by David Robinson lists common errors and how to fix them. 
 - [Get Help!](https://www.tidyverse.org/help/#reprex) - If you need help, the first step is to create a `reprex`, or reproducible example....learn how.
