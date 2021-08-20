@@ -98,8 +98,8 @@
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) - An online reference book for `R Markdown`.  And provides a detailed reference on the built-in `R Markdown` output formats of the `rmarkdown` package, as well as several other extension packages.
 - [Visual R Markdown](https://rstudio.github.io/visual-markdown-editing/?_ga=2.75875613.906511098.1628520305-780811595.1628176381) - RStudio v1.4 includes a new visual markdown editing mode.  It provides improved productivity for composing longer-form articles and analyses with R Markdown.
 - [Up and running with `officedown`](https://alison.rbind.io/blog/2021-07-officedown/?s=09) - A blog article by Alison Hill that describes the `officedown` package which allows users to write Word and Powerpoint documents using `R Markdown`.
-- [bookdown](https://github.com/rstudio/bookdown) - An `R` package to facilitate writing books and long-form articles/reports with R Markdown.
-- [List of books written with **bookdown**](https://bookdown.org/home/archive/?s=09) - A list of online books published to bookdown.org.  The list is automatically generated and updated frequently.
+- [bookdown](https://github.com/rstudio/bookdown) - An `R` package to facilitate writing books and long-form articles/reports with R Markdown.  The home page includes a list of featured books.
+- [List of featured books written with **bookdown**](https://bookdown.org/) -  A list of *featured* books published to [bookdown.org](bookdown.org). Click [here](https://bookdown.org/home/archive/?s=09) for a list generated automaticaly and ordered roughly by date.
 
 ### Anti-R
 - [jamovi](https://www.jamovi.org/) - A free and open-source point-and-click statistical program.  jamovi is built on top of the `R` statistical language making it easy to access the code underneath for your analysis. 
