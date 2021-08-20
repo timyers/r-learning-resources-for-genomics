@@ -133,6 +133,7 @@
 - [Get Better At Testing Your R Package](https://http-testing-r.netlify.app/) - This tutorial is about advanced testing of `R` packages, with HTTP testing as a case study.  Companion video tutorial available [here](https://www.youtube.com/watch?v=tzQGg1kAzGs&list=PL4IzsxWztPdnCC_kMCYKrd_t6cViMhBrD&index=13).
 - [How to create your personal CRAN-like repository](https://ropensci.org/blog/2021/06/22/setup-runiverse/) - The [r-universe](https://r-universe.dev/) platform provides users and organizations with a personal CRAN-like repository for publishing software, rmarkdown articles, and other content that fits in an `R` package.
 - [How to name files](https://speakerdeck.com/jennybc/how-to-name-files) - Slide deck from Jenny Bryan about the why's and how's of naming files.
+- [carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 
 ### Contributing
 
