@@ -63,12 +63,13 @@
 
 ### Genomics
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
+- [bigsnpr](https://privefl.github.io/bigsnpr/index.html) - an R package for the analysis of massive SNP arrays, primarily designed for human genetics.  It enhances the features of package [bigstatsr](https://privefl.github.io/bigstatsr/) for the purpose of analyzing genotype data.  See short demo [here](https://privefl.github.io/bigsnpr/articles/demo.html).
+- [Manhattan plot in R: a review](http://www.r-graph-gallery.com/101_Manhattan_plot.html?s=09) - An article about creating a Manhattan plot with `R`.
 - [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/) - The goal of this book is to provide a solid foundation in the usage of Bioconductor tools for single-cell RNA-seq analysis by walking through various steps of typical workflows using example datasets.
 - [Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html) - An online course (2021) that is taught through the University of Camgridge [Bioinformatics training unit](https://training.csx.cam.ac.uk/bioinformatics/).  This course discusses some of the questions that can be addressed using scRNA-seq as well as the available computational and statistical methods available
 - [Assigning cell types with SingleR](http://bioconductor.org/books/release/SingleRBook/) - The Bioconductor package `SingleR` implements an automatic annotation method for single-cell RNA sequencing (scRNA-seq) data.
 - [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/) - A course (2019) from the Broad Institute that is aimed at researchers and technical workers who are or will be analyzing single cell RNA-seq data.
-- [bigsnpr](https://privefl.github.io/bigsnpr/index.html) - an R package for the analysis of massive SNP arrays, primarily designed for human genetics.  It enhances the features of package [bigstatsr](https://privefl.github.io/bigstatsr/) for the purpose of analyzing genotype data.  See short demo [here](https://privefl.github.io/bigsnpr/articles/demo.html).
-- [Manhattan plot in R: a review](http://www.r-graph-gallery.com/101_Manhattan_plot.html?s=09) - An article about creating a Manhattan plot with `R`.
+
 
 ### Continuous Learning
 - [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) - A weekly social data project in `R`.  Every Monday they release a new dataset on the [TidyTuesday Github page](https://github.com/rfordatascience/tidytuesday) for participants to clean, wrangle, tidy, and plot.
