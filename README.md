@@ -67,6 +67,7 @@
 - [Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html) - An online course (2021) that is taught through the University of Camgridge [Bioinformatics training unit](https://training.csx.cam.ac.uk/bioinformatics/).  This course discusses some of the questions that can be addressed using scRNA-seq as well as the available computational and statistical methods available
 - [Assigning cell types with SingleR](http://bioconductor.org/books/release/SingleRBook/) - The Bioconductor package `SingleR` implements an automatic annotation method for single-cell RNA sequencing (scRNA-seq) data.
 - [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/) - A course (2019) from the Broad Institute that is aimed at researchers and technical workers who are or will be analyzing single cell RNA-seq data.
+- [bigsnpr](https://privefl.github.io/bigsnpr/index.html) - an R package for the analysis of massive SNP arrays, primarily designed for human genetics.  It enhances the features of package [bigstatsr](https://privefl.github.io/bigstatsr/) for the purpose of analyzing genotype data.  See short demo [here](https://privefl.github.io/bigsnpr/articles/demo.html).
 - [Manhattan plot in R: a review](http://www.r-graph-gallery.com/101_Manhattan_plot.html?s=09) - An article about creating a Manhattan plot with `R`.
 
 ### Continuous Learning
