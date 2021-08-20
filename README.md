@@ -124,6 +124,8 @@
 - [Making Your Code Citable](https://guides.github.com/activities/citable-code/#create) - If you’re a researcher writing software, this guide will show you how to make the work you share on GitHub citable by archiving one of your GitHub repositories and assigning a [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI) with the data archiving tool [Zenodo](https://about.zenodo.org/).
 - [grateful](https://github.com/Pakillo/grateful?s=09) - The goal of `grateful` is to make it very easy to cite the `R` packages used in any report or publication.
 - [Twitter for Scientists](https://t4scientists.com/) - This book by Daniel S. Quintana, University of Oslo, will walk you through the ins and outs of using Twitter as a scientist to share your work. With Twitter and social media, the opportunity to share your work with everyone is available. People need to know your work exists before they can read it.
+- [tidyverse - SQL and R](https://github.com/ianmcook/tidyquery) - The `tidyverse` package runs SQL queries on R data frames.  For an introduction to tidyquery and queryparser, watch the recording of the talk [“Bridging the Gap between SQL and R"](https://www.youtube.com/watch?v=JwP5KdWSgqE) from rstudio::conf(2020).
+
 
 ### Miscellaneous
 
