@@ -38,6 +38,7 @@
 - [ggplot2: elegant graphics for data science](https://ggplot2-book.org/index.html) - This book by Hadley Wickham goes into greater depth into the ggplot2 visualisation system.  `ggplot2` is an `R` package for producing statistical, or data, graphics.
 - [The Evolution of a ggplot](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) - In this blog post, Cédric Scherer shows you how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way.
 - [ggplot Wizardry Hands-On](https://z3tt.github.io/OutlierConf2021/?s=09) - A Step-by-Step tutorial:  Tricks and secrets for a beautiful plot in `R`, by Cédric Scherer.
+- [Tidymodels](https://www.tidymodels.org/) - The tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.
 
 
 
