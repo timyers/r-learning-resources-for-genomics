@@ -56,7 +56,8 @@
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) - This book serves as a thorough introduction to prediction and modeling with text, along with detailed practical examples.
 - [JavaScript for R](https://book.javascript-for-r.com/) - Little known fact, `R` works just as well with JavaScript!  This book delves into the various ways both the `R` and JavaScript languages can work together.
 - [tidyquery - SQL and R](https://github.com/ianmcook/tidyquery) - The `tidyquery` package runs SQL queries on `R` data frames.  For an introduction to tidyquery and queryparser, watch the recording of the talk [“Bridging the Gap between SQL and R"](https://www.youtube.com/watch?v=JwP5KdWSgqE) from rstudio::conf(2020).
-- [Geocomputation with R](https://geocompr.robinlovelace.net/) - Geocomputation with `R` is for people who want to analyze, visualize and model geographic data. 
+- [Geocomputation with R](https://geocompr.robinlovelace.net/) - Geocomputation with `R` is for people who want to analyze, visualize and model geographic data
+- [Fastverse](https://github.com/SebKrantz/fastverse) - The fastverse is a suite of complementary high-performance packages for statistical computing and data manipulation in R.
 
 ### Finding Help with `R`
 
@@ -139,6 +140,7 @@
 - [How to name files](https://speakerdeck.com/jennybc/how-to-name-files) - Slide deck from Jenny Bryan about the why's and how's of naming files.
 - [carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Well Well Well my Excel](https://johnmackintosh.net/blog/2021-08-12-well-well-well-my-excel/) - How to import multiple excel files (not sheets, but files) into `R`, by *Data by John*.
+- [Fastverse](https://github.com/SebKrantz/fastverse) - The fastverse is a suite of complementary high-performance packages for statistical computing and data manipulation in R.
 
 ### Contributing
 
