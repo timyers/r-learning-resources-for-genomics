@@ -117,9 +117,9 @@
 - [Polygenic Risk Score (PRS) Tutorial](https://choishingwan.github.io/PRS-Tutorial/) - This tutorial provides a step-by-step guide to performing basic polygenic risk score (PRS) analyses.
 
 ### Shiny
-- [`Shiny` from RStudio](https://shiny.rstudio.com/) - Get started with `Shiny`, an `R` package to build interactive web apps straight from `R`.
+- [Shiny from RStudio](https://shiny.rstudio.com/) - Get started with `Shiny`, an `R` package to build interactive web apps straight from `R`.
 - [Mastering Shiny](https://mastering-shiny.org/index.html) - The online version of the book by Hadley Wickham to get you writing `Shiny` apps quickly.
-- [Outstanding User Interfaces with `Shiny`](https://unleash-shiny.rinterface.com/index.html) - A book for experienced `Shiny` users who want to learn more about the underlying web technologies.
+- [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html) - A book for experienced `Shiny` users who want to learn more about the underlying web technologies.
 
 ### Git and Version Control
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) - This article by Jennifer Bryan describes the use of the version control system Git and and the hosting site GitHub for statistical and data scientific workflows. Special attention is given to projects that use the statistical language R and, optionally, R Markdown documents.
