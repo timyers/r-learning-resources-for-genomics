@@ -18,11 +18,10 @@
 <img src="figure/r_rollercoaster.png" width="75%" height="75%" />
 </p>
     
-<!-- <center> -->
 
 Illustration by [Allison
 Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
-<!-- </center> -->
+
 
 ### Getting Started with `R`
 
