@@ -133,7 +133,7 @@
 - [grateful](https://github.com/Pakillo/grateful?s=09) - The goal of `grateful` is to make it very easy to cite the `R` packages used in any report or publication.
 - [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/) - GitHub now has [built-in support](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files) for [CITATION.cff](https://citation-file-format.github.io/) files. This new feature enables academics and researchers to let people know how to correctly cite their work, especially in academic publications/materials.
 - [Twitter for Scientists](https://t4scientists.com/) - This book by Daniel S. Quintana, University of Oslo, will walk you through the ins and outs of using Twitter as a scientist to share your work. With Twitter and social media, the opportunity to share your work with everyone is available. People need to know your work exists before they can read it.
-- [tidyquery - SQL and R](https://github.com/ianmcook/tidyquery) - The `tidyqyeryt` package runs SQL queries on `R` data frames.  For an introduction to tidyquery and queryparser, watch the recording of the talk [“Bridging the Gap between SQL and R"](https://www.youtube.com/watch?v=JwP5KdWSgqE) from rstudio::conf(2020).
+- [tidyquery - SQL and R](https://github.com/ianmcook/tidyquery) - The `tidyquery` package runs SQL queries on `R` data frames.  For an introduction to tidyquery and queryparser, watch the recording of the talk [“Bridging the Gap between SQL and R"](https://www.youtube.com/watch?v=JwP5KdWSgqE) from rstudio::conf(2020).
 
 
 ### Miscellaneous
