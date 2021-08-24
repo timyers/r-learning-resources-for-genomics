@@ -107,7 +107,7 @@
 - [Up and running with `officedown`](https://alison.rbind.io/blog/2021-07-officedown/?s=09) - A blog article by Alison Hill that describes the `officedown` package which allows users to write Word and Powerpoint documents using `R Markdown`.
 - [bookdown](https://github.com/rstudio/bookdown) - An `R` package to facilitate writing books and long-form articles/reports with R Markdown.  The home page includes a list of featured books.
 - [List of featured books written with **bookdown**](https://bookdown.org/) -  A list of *featured* books published to [bookdown.org](https://bookdown.org/). Click [here](https://bookdown.org/home/archive/?s=09) for a list generated automatically and roughly ordered by date.
-- [RMarkdown Tips and Tricks](https://indrajeetpatil.github.io/RmarkdownTips/) - A collection of tweets by Indrajeet Patil containing tips and tricks related to [R Markdown](https://rmarkdown.rstudio.com/).
+- [RMarkdown Tips and Tricks](https://indrajeetpatil.github.io/RmarkdownTips/) - A collection of tweets by [Indrajeet Patil](https://github.com/IndrajeetPatil) containing tips and tricks related to [R Markdown](https://rmarkdown.rstudio.com/).
 
 ### Anti-R
 - [jamovi](https://www.jamovi.org/) - A free and open-source point-and-click statistical program.  jamovi is built on top of the `R` statistical language making it easy to access the code underneath for your analysis. 
