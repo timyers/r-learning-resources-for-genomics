@@ -14,8 +14,10 @@
 
 > The `R Learning Resources for Genomics` repository is a curated collection of free resources to help the aspiring computational biologist learn about the `R` programming language. `R` is a free and open source language for statistical analyses and graphics. Biology and medicine generate more data than ever before. Data analysis skills and understanding of computational genomics is more important than ever.
 
+<p align="center">
 <img src="figure/r_rollercoaster.png" width="75%" height="75%" />
-
+</p>
+    
 <!-- <center> -->
 
 Illustration by [Allison
