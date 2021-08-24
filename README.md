@@ -97,7 +97,7 @@
 - [groundhog](http://groundhogr.com/using/) - Write `R` scripts that are reproducible using the `groundhog` package.
 - [renv](https://rstudio.github.io/renv/) - The `renv` package helps you create reproducible environments for `R` projects.
 - [Draw me a project](https://masalmon.eu/2021/06/30/r-projects/) - A great blog post by Maëlle Salmon about reproducibility.
-- [CRAN Time Machine](https://mran.microsoft.com/timemachine) - The Comprehensive R Archive Network (CRAN), maintained by the R Project, is updated frequently with new R packages & R releases at cran.r-project.org. Use the The Microsoft R Application Network (MRAN) Time Machine to browse daily CRAN snapshots as far back as Sept. 17, 2014. These snapshots provide reproducibility for Microsoft R Open (and older Revolution R Open) releases and the [checkpoint package](https://mran.microsoft.com/documents/rro/reproducibility#checkpointpkg).
+- [CRAN Time Machine (MRAN)](https://mran.microsoft.com/timemachine) - The Comprehensive R Archive Network (CRAN), maintained by the R Project, is updated frequently with new R packages & R releases at cran.r-project.org. Use the The Microsoft R Application Network (MRAN) Time Machine to browse daily CRAN snapshots as far back as Sept. 17, 2014. These snapshots provide reproducibility for Microsoft R Open (and older Revolution R Open) releases and the [checkpoint package](https://mran.microsoft.com/documents/rro/reproducibility#checkpointpkg).
 
 ### Markdown & R Markdown
 - [R Markdown from RStudio](https://rmarkdown.rstudio.com/lesson-1.html) - Getting started with `R Markdown`.
