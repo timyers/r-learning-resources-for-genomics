@@ -110,7 +110,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/) - A quick introduction on using Docker for reproducibility in R, by Colin Fay.
 - [Transparent reproducible R environment with Docker + renv](https://eliocamp.github.io/codigo-r/en/2021/08/docker-renv/) - A quick introduction to setting up a transparent reproducible R environment with Docker + renv, by Elio Campitelli.
 - [Conducting reproducible research with Docker (Part 1 of 3)](http://www.derekmpowell.com/posts/2018/02/docker-tutorial-1/) - A blog post by Derek Powell where he describes how to use to produce statistically and computationally reproducible research, Docker
-- [Singularity](https://sylabs.io/singularity/) - `Singularity` is an alternative container platform to Docker.  You can build a container on your laptop and then run it on many of the largest HPC clusters in the world, local university or company clusters, a single server, in the cloud, or on a workstation down the hall.  Additional information and help is available [here](https://singularity.hpcng.org/).
+- [Singularity](https://sylabs.io/singularity/) - `Singularity` is an alternative container platform to Docker.  You can build a container on your laptop and then run it on many of the largest HPC clusters in the world, local university or company clusters, a single server, in the cloud, or on a workstation down the hall.  Additional details and help is also available [here](https://singularity.hpcng.org/).
 
 ### Markdown & R Markdown
 - [R Markdown from RStudio](https://rmarkdown.rstudio.com/lesson-1.html) - Getting started with `R Markdown`.
