@@ -87,6 +87,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html) - An online course (2021) that is taught through the University of Camgridge [Bioinformatics training unit](https://training.csx.cam.ac.uk/bioinformatics/).  This course discusses some of the questions that can be addressed using scRNA-seq as well as the available computational and statistical methods available
 - [Assigning cell types with SingleR](http://bioconductor.org/books/release/SingleRBook/) - The Bioconductor package `SingleR` implements an automatic annotation method for single-cell RNA sequencing (scRNA-seq) data.
 - [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/) - A course (2019) from the Broad Institute that is aimed at researchers and technical workers who are or will be analyzing single cell RNA-seq data.
+- [Survival Analysis in R](http://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html?s=09) - This tutorial provides an introduction to survival analysis and to conducting a survival analysis in `R`.  It was originally presented at the Memorial Sloan Kettering Cancer Center R-Presenters series on August 30, 2018 and updated March 2019.
 
 
 ### Continuous Learning
