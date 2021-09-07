@@ -47,6 +47,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [The Evolution of a ggplot](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) - In this blog post, Cédric Scherer shows you how to turn a default ggplot into a plot that visualizes information in an appealing and easily understandable way.
 - [ggplot Wizardry Hands-On](https://z3tt.github.io/OutlierConf2021/?s=09) - A Step-by-Step tutorial:  Tricks and secrets for a beautiful plot in `R`, by Cédric Scherer.
 - [Tidymodels](https://www.tidymodels.org/) - The tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.
+- [Tidy Modeling with R](https://www.tmwr.org/?s=09) - This book is a guide to using a new collection of software in the `R` programming language for model building.
 - [ggside](https://github.com/jtlandis/ggside) - The `R` package `ggside` expands on the `ggplot2` package. This package allows the user to add graphical information about one of the main panel’s axis.
 
 ### Beyond the basics
