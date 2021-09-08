@@ -61,7 +61,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [JavaScript for R](https://book.javascript-for-r.com/) - Did you know `R` works just as well with JavaScript?!  This book delves into the various ways both the `R` and JavaScript languages can work together.
 - [tidyquery - SQL and R](https://github.com/ianmcook/tidyquery) - The `tidyquery` package runs SQL queries on `R` data frames.  For an introduction to tidyquery and queryparser, watch the recording of the talk [“Bridging the Gap between SQL and R"](https://www.youtube.com/watch?v=JwP5KdWSgqE) from rstudio::conf(2020).
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) - Geocomputation with `R` is for people who want to analyze, visualize and model geographic data
-- [Fastverse](https://github.com/SebKrantz/fastverse) - The fastverse is a suite of complementary high-performance packages for statistical computing and data manipulation in `R`.
+
 
 ### Finding Help with `R`
 
@@ -100,6 +100,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Beyond Multiple Linear Regression]() - Online version of the book *Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in `R`*, by Paul Roback and Julie Legler.
 - [Get Started with Bayesian Analysis](https://easystats.github.io/bayestestR/articles/bayestestR.html) - A vignette describing the Bayesian framework for statistics, including examples in `R`.
 - [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/?s=09) - The primary goal of `Bayes Rules!` is to make modern Bayesian thinking, modeling, and computing accessible to a broader audience.
+- [Fastverse](https://github.com/SebKrantz/fastverse) - The fastverse is a suite of complementary high-performance packages for statistical computing and data manipulation in `R`.
 
 
 ### Reproducibility
