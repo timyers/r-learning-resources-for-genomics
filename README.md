@@ -33,7 +33,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Data Science in R: A Gentle Introduction](https://bookdown.org/jgscott/DSGI/) - This online book is structured as a series of walk-through lessons in `R` that will have you doing real data science in no time.
 - [An(other) introduction to R](https://bookdown.org/f_lennert/introduction-to-r/) - A(nother) gentle introduction to `R` and how you can use it to work with data.
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/r-devel/R-intro.html) - A basic introduction to `R`.  Official CRAN documentation.
-- [`Swirl`](https://swirlstats.com/) - Learn `R`, in `R`. `Swirl` teaches you `R` programming and data science interactively, at your own pace, and right in the `R` console.
+- [Swirl](https://swirlstats.com/) - Learn `R`, in `R`. `Swirl` teaches you `R` programming and data science interactively, at your own pace, and right in the `R` console.
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - The tutorials are grouped by skill level (beginner, intermediate, expert).
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
