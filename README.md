@@ -57,13 +57,6 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
 - [“Do More with R” video tutorials](infoworld.com/article/3411819/do-more-with-r-video-tutorials.html) - An article by Sharon Machlis about quick video tips on useful things you can do in `R`.  Most videos are shorter than 10 minutes.
 - [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) - An article by Jenny Bryan that includes advice on setting up your `R` life to maximize effectiveness and reduce frustration.
-- [eastystats](https://github.com/easystats/easystats) - `easystats` is a collection of `R` packages that provides a consistent framework to harness R statistics.
-- [statsExpressions: Tidy dataframes and expressions with statistical details](https://indrajeetpatil.github.io/statsExpressions/) - This `R` package provides a consistent syntax to do statistical analysis with tidy data (in pipe-friendly manner) and provides statistical expressions (pre-formatted in-text statistical results) for plotting functions.
-- [ggstatsplot: ggplot2 Based Plots with Statistical Details](https://indrajeetpatil.github.io/ggstatsplot/) - `ggstatsplot` is an extension of `ggplot2` package (see section above) for creating graphics with details from statistical tests included in the information-rich plots themselves.
-- [Modern Statistics with R](http://www.modernstatisticswithr.com/) - The aim of *Modern Statistics with R* is to introduce you to key parts of the modern statistical toolkit.
-- [Get Started with Bayesian Analysis](https://easystats.github.io/bayestestR/articles/bayestestR.html) - A vignette describing the Bayesian framework for statistics, including examples in `R`.
-- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/?s=09) - The primary goal of `Bayes Rules!` is to make modern Bayesian thinking, modeling, and computing accessible to a broader audience.
-- [Beyond Multiple Linear Regression]() - Online version of the book *Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in `R`*, by Paul Roback and Julie Legler.
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) - This book serves as a thorough introduction to prediction and modeling with text, along with detailed practical examples.
 - [JavaScript for R](https://book.javascript-for-r.com/) - Did you know `R` works just as well with JavaScript?!  This book delves into the various ways both the `R` and JavaScript languages can work together.
 - [tidyquery - SQL and R](https://github.com/ianmcook/tidyquery) - The `tidyquery` package runs SQL queries on `R` data frames.  For an introduction to tidyquery and queryparser, watch the recording of the talk [“Bridging the Gap between SQL and R"](https://www.youtube.com/watch?v=JwP5KdWSgqE) from rstudio::conf(2020).
@@ -100,7 +93,13 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Survival Analysis in R](http://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html?s=09) - This tutorial provides an introduction to survival analysis and to conducting a survival analysis in `R`.  It was originally presented at the Memorial Sloan Kettering Cancer Center R-Presenters series on August 30, 2018 and updated March 2019.
 
 ### Statistics
-
+- [eastystats](https://github.com/easystats/easystats) - `easystats` is a collection of `R` packages that provides a consistent framework to harness R statistics.
+- [statsExpressions: Tidy dataframes and expressions with statistical details](https://indrajeetpatil.github.io/statsExpressions/) - This `R` package provides a consistent syntax to do statistical analysis with tidy data (in pipe-friendly manner) and provides statistical expressions (pre-formatted in-text statistical results) for plotting functions.
+- [ggstatsplot: ggplot2 Based Plots with Statistical Details](https://indrajeetpatil.github.io/ggstatsplot/) - `ggstatsplot` is an extension of `ggplot2` package (see section above) for creating graphics with details from statistical tests included in the information-rich plots themselves.
+- [Modern Statistics with R](http://www.modernstatisticswithr.com/) - The aim of *Modern Statistics with R* is to introduce you to key parts of the modern statistical toolkit.
+- [Beyond Multiple Linear Regression]() - Online version of the book *Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in `R`*, by Paul Roback and Julie Legler.
+- [Get Started with Bayesian Analysis](https://easystats.github.io/bayestestR/articles/bayestestR.html) - A vignette describing the Bayesian framework for statistics, including examples in `R`.
+- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/?s=09) - The primary goal of `Bayes Rules!` is to make modern Bayesian thinking, modeling, and computing accessible to a broader audience.
 
 
 ### Reproducibility
