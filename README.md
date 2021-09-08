@@ -99,6 +99,10 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/) - A course (2019) from the Broad Institute that is aimed at researchers and technical workers who are or will be analyzing single cell RNA-seq data.
 - [Survival Analysis in R](http://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html?s=09) - This tutorial provides an introduction to survival analysis and to conducting a survival analysis in `R`.  It was originally presented at the Memorial Sloan Kettering Cancer Center R-Presenters series on August 30, 2018 and updated March 2019.
 
+### Statistics
+
+
+
 ### Reproducibility
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
 - [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/) - A workshop that discusses `R` and `Rstudio` tools and conventions that offer a powerful framework for making modern, open, reproducible and collaborative computational workflows more accessible to researchers.
