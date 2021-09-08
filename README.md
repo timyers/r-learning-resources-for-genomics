@@ -93,7 +93,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Survival Analysis in R](http://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html?s=09) - This tutorial provides an introduction to survival analysis and to conducting a survival analysis in `R`.  It was originally presented at the Memorial Sloan Kettering Cancer Center R-Presenters series on August 30, 2018 and updated March 2019.
 
 ### Statistics
-- [eastystats](https://github.com/easystats/easystats) - `easystats` is a collection of `R` packages that provides a consistent framework to harness R statistics.
+- [eastystats](https://github.com/easystats/easystats) - `easystats` is a collection of `R` packages that provides a consistent framework to harness `R` statistics.
 - [statsExpressions: Tidy dataframes and expressions with statistical details](https://indrajeetpatil.github.io/statsExpressions/) - This `R` package provides a consistent syntax to do statistical analysis with tidy data (in pipe-friendly manner) and provides statistical expressions (pre-formatted in-text statistical results) for plotting functions.
 - [ggstatsplot: ggplot2 Based Plots with Statistical Details](https://indrajeetpatil.github.io/ggstatsplot/) - `ggstatsplot` is an extension of `ggplot2` package (see section above) for creating graphics with details from statistical tests included in the information-rich plots themselves.
 - [Modern Statistics with R](http://www.modernstatisticswithr.com/) - The aim of *Modern Statistics with R* is to introduce you to key parts of the modern statistical toolkit.
