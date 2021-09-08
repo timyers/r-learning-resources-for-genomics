@@ -79,6 +79,15 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - `RStudio` cheatsheets make it easy to use some of our favorite `R` packages.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/r) - Find the best answers to your `R` questions and help others with theirs.
 
+
+### Continuous Learning
+- [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) - A weekly social data project in `R`.  Every Monday they release a new dataset on the [TidyTuesday Github page](https://github.com/rfordatascience/tidytuesday) for participants to clean, wrangle, tidy, and plot.
+- [Twitter for R programmers](https://www.t4rstats.com/index.html) - The R community is very active on Twitter. You can learn a lot about the language, about new approaches to problems, and make new friends.  This online book will show you how.
+- [R Weekly](https://rweekly.org/about) - `R` is growing very quickly, and there are lots of great blogs, tutorials and other formats of resources coming out every day. R Weekly wants to keep track of these great things in the R community and make it more accessible to everyone.
+- [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/) - Following `R` news helps you learn about new tools and their applications.
+- [RStudio Books](https://www.rstudio.com/resources/books/) - In addition to software tools, RStudio has also authored many books, some already highlighted in this curated list.  Another tool for your toolbox.
+
+
 ### Genomics
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
 - [bigstatsr](https://privefl.github.io/bigstatsr/) - A package that provides functions for fast statistical analysis of large-scale data encoded as matrices. The package can handle matrices that are too large to fit in memory thanks to memory-mapping to binary files on disk.
@@ -89,14 +98,6 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Assigning cell types with SingleR](http://bioconductor.org/books/release/SingleRBook/) - The Bioconductor package `SingleR` implements an automatic annotation method for single-cell RNA sequencing (scRNA-seq) data.
 - [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/) - A course (2019) from the Broad Institute that is aimed at researchers and technical workers who are or will be analyzing single cell RNA-seq data.
 - [Survival Analysis in R](http://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html?s=09) - This tutorial provides an introduction to survival analysis and to conducting a survival analysis in `R`.  It was originally presented at the Memorial Sloan Kettering Cancer Center R-Presenters series on August 30, 2018 and updated March 2019.
-
-
-### Continuous Learning
-- [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) - A weekly social data project in `R`.  Every Monday they release a new dataset on the [TidyTuesday Github page](https://github.com/rfordatascience/tidytuesday) for participants to clean, wrangle, tidy, and plot.
-- [Twitter for R programmers](https://www.t4rstats.com/index.html) - The R community is very active on Twitter. You can learn a lot about the language, about new approaches to problems, and make new friends.  This online book will show you how.
-- [R Weekly](https://rweekly.org/about) - `R` is growing very quickly, and there are lots of great blogs, tutorials and other formats of resources coming out every day. R Weekly wants to keep track of these great things in the R community and make it more accessible to everyone.
-- [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/) - Following `R` news helps you learn about new tools and their applications.
-- [RStudio Books](https://www.rstudio.com/resources/books/) - In addition to software tools, RStudio has also authored many books, some already highlighted in this curated list.  Another tool for your toolbox.
 
 ### Reproducibility
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
