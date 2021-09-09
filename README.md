@@ -172,6 +172,8 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Well Well Well my Excel](https://johnmackintosh.net/blog/2021-08-12-well-well-well-my-excel/) - How to import multiple excel files (not sheets, but files) into `R`, by *Data by John*.
 - [Fastverse](https://github.com/SebKrantz/fastverse) - The fastverse is a suite of complementary high-performance packages for statistical computing and data manipulation in R.
+- [Why scientists should use Twitter](https://www.dsquintana.blog/twitter-for-scientists/) - A blog post by the author of [Twitter for Scientists](https://t4scientists.com/), Dan Quintana.
+
 
 ### Contributing
 
