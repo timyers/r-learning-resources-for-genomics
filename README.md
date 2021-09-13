@@ -151,6 +151,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html) - A book for experienced `Shiny` users who want to learn more about the underlying web technologies.
 
 ### Git and Version Control
+- [`Git`](https://git-scm.com/) is a useful tool for version contro and [`GitHub`](https://github.com/) sits on top of `Git` and supports collaborative and distributed working.
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) - This article by Jennifer Bryan describes the use of the version control system Git and and the hosting site GitHub for statistical and data scientific workflows. Special attention is given to projects that use the statistical language R and, optionally, R Markdown documents.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - An online book that introduces Git, GitHub and version control.
 - [GitHub actions with R]() - This book introduces GitHub actions, which help you automate tasks within your software development life cycle.  More information available from [GitHub Actions Documentation.](https://docs.github.com/en/actions)
