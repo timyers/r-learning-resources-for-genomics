@@ -182,6 +182,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Fastverse](https://github.com/SebKrantz/fastverse) - The fastverse is a suite of complementary high-performance packages for statistical computing and data manipulation in R.
 - [Why scientists should use Twitter](https://www.dsquintana.blog/twitter-for-scientists/) - A blog post by the author of [Twitter for Scientists](https://t4scientists.com/), Dan Quintana.
 - [gt Tables](https://gt.rstudio.com/index.html) - With the `gt` package, anyone can make wonderful-looking *display* tables using the `R` programming language.
+- [How to Use System Commands in your R Script or Package](https://ropensci.org/blog/2021/09/13/system-calls-r-package/) - Learn the basics of using command-lines tools from within `R`.
 
 
 ### Contributing
