@@ -169,6 +169,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Twitter for Scientists](https://t4scientists.com/) - This book by Daniel S. Quintana, University of Oslo, will walk you through the ins and outs of using Twitter as a scientist to share your work. With Twitter and social media, the opportunity to share your work with everyone is available. People need to know your work exists before they can read it.
 - [tidyquery - SQL and R](https://github.com/ianmcook/tidyquery) - The `tidyquery` package runs SQL queries on `R` data frames.  For an introduction to tidyquery and queryparser, watch the recording of the talk [“Bridging the Gap between SQL and R"](https://www.youtube.com/watch?v=JwP5KdWSgqE) from rstudio::conf(2020).
 - [Doing Meta Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) - This book serves as an accessible introduction into how meta-analyses can be conducted in `R`.
+- [Building a team of internal R packages](https://emilyriederer.netlify.app/post/team-of-packages/) - A blog post by Emily Riederer.
 
 
 ### Miscellaneous
