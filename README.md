@@ -170,6 +170,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [tidyquery - SQL and R](https://github.com/ianmcook/tidyquery) - The `tidyquery` package runs SQL queries on `R` data frames.  For an introduction to tidyquery and queryparser, watch the recording of the talk [“Bridging the Gap between SQL and R"](https://www.youtube.com/watch?v=JwP5KdWSgqE) from rstudio::conf(2020).
 - [Doing Meta Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) - This book serves as an accessible introduction into how meta-analyses can be conducted in `R`.
 - [Building a team of internal R packages](https://emilyriederer.netlify.app/post/team-of-packages/) - A blog post by Emily Riederer.
+- [The Story Behind rspatialdata](https://ropensci.org/blog/2021/09/28/rspatialdata/) - A blog post by Dilinie Seimon & Varsha Ujjinni Vijay Kumar about `rspatialdata`, a repository of data sources and simple tutorials on how to retrieve and visualize spatial data using R.
 
 
 ### Miscellaneous
