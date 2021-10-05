@@ -107,6 +107,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Get Started with Bayesian Analysis](https://easystats.github.io/bayestestR/articles/bayestestR.html) - A vignette describing the Bayesian framework for statistics, including examples in `R`.
 - [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/?s=09) - The primary goal of `Bayes Rules!` is to make modern Bayesian thinking, modeling, and computing accessible to a broader audience.
 - [Fastverse](https://github.com/SebKrantz/fastverse) - The fastverse is a suite of complementary high-performance packages for statistical computing and data manipulation in `R`.
+- [modelsummary](https://github.com/vincentarelbundock/modelsummary) - `modelsummary is an `R` package that creates tables and plots to summarize statistical models and data.
 
 
 ### Reproducibility
