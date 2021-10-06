@@ -50,6 +50,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Tidymodels](https://www.tidymodels.org/) - The tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.
 - [Tidy Modeling with R](https://www.tmwr.org/?s=09) - This book is a guide to using a new collection of software in the `R` programming language for model building.
 - [ggside](https://github.com/jtlandis/ggside) - The `R` package `ggside` expands on the `ggplot2` package. This package allows the user to add graphical information about one of the main panel’s axis.
+- [Principal Component Analysis (PCA) with tidyverse](https://bjnnowak.netlify.app/2021/09/15/r-pca-with-tidyverse/?s=09) - A blog post by Benjamin Nowak to show how to use `tidyverse` tools and syntax to perform PCA.
 
 ### Beyond the basics
 - [What They Forgot to Teach You About R](https://rstats.wtf/) - Free online resource by Jenny Bryan and Jim Hester.  The material is based on in-person workshops that focused on building holistic and project-oriented workflows that address the most common sources of friction in data analysis, outside of doing the statistical analysis itself.
@@ -107,6 +108,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Get Started with Bayesian Analysis](https://easystats.github.io/bayestestR/articles/bayestestR.html) - A vignette describing the Bayesian framework for statistics, including examples in `R`.
 - [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/?s=09) - The primary goal of `Bayes Rules!` is to make modern Bayesian thinking, modeling, and computing accessible to a broader audience.
 - [Fastverse](https://github.com/SebKrantz/fastverse) - The fastverse is a suite of complementary high-performance packages for statistical computing and data manipulation in `R`.
+- [Principal Component Analysis (PCA) with tidyverse](https://bjnnowak.netlify.app/2021/09/15/r-pca-with-tidyverse/?s=09) - A blog post by Benjamin Nowak to show how to use `tidyverse` tools and syntax to perform PCA. 
 - [modelsummary](https://github.com/vincentarelbundock/modelsummary) - `modelsummary is an `R` package that creates tables and plots to summarize statistical models and data.
 - [factoextra : Extract and Visualize the Results of Multivariate Data Analyses](https://rpkgs.datanovia.com/factoextra/index.html) - `factoextra` is an R package that makes it easy to extract and visualize the output of exploratory multivariate data analyses, including: PCA, CA, MCA, MFA, HMFA and FAMD.
 
