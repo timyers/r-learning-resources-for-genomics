@@ -113,6 +113,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Fastverse](https://github.com/SebKrantz/fastverse) - The fastverse is a suite of complementary high-performance packages for statistical computing and data manipulation in `R`.
 - [Principal Component Analysis (PCA) with tidyverse](https://bjnnowak.netlify.app/2021/09/15/r-pca-with-tidyverse/?s=09) - A blog post by Benjamin Nowak to show how to use `tidyverse` tools and syntax to perform PCA. 
 - [modelsummary](https://github.com/vincentarelbundock/modelsummary) - `modelsummary is an `R` package that creates tables and plots to summarize statistical models and data.
+- [gtsummary](https://github.com/ddsjoberg/gtsummary) - The `gtsummary` package creates publication-ready analytical and summary tables in `R`.
 - [factoextra : Extract and Visualize the Results of Multivariate Data Analyses](https://rpkgs.datanovia.com/factoextra/index.html) - `factoextra` is an R package that makes it easy to extract and visualize the output of exploratory multivariate data analyses, including: PCA, CA, MCA, MFA, HMFA and FAMD.
 
 
