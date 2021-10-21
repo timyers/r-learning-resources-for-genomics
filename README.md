@@ -167,7 +167,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - An online book that introduces Git, GitHub and version control.
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Commit messages matter. Here's how to write them well, by Chris Beams.
 - [The Pro Git Book](https://git-scm.com/book/en/v2) - The entire *Pro Git book*, written by Scott Chacon and Ben Straub and published by Apress.
-- - [GitHub actions with R]() - This book introduces GitHub actions, which help you automate tasks within your software development life cycle.  More information available from [GitHub Actions Documentation.](https://docs.github.com/en/actions)
+- [GitHub actions with R]() - This book introduces GitHub actions, which help you automate tasks within your software development life cycle.  More information available from [GitHub Actions Documentation.](https://docs.github.com/en/actions)
 - [gert](https://cran.r-project.org/web/packages/gert/vignettes/gert.html) - The `gert` package is a simple git client based on [‘libgit2’](libgit2.org).  What this means for `R` users is that you can work with local and remote Git repositories from the comfort of `R`!
 - [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/) - GitHub now has [built-in support](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files) for [CITATION.cff](https://citation-file-format.github.io/) files. This new feature enables academics and researchers to let people know how to correctly cite their work, especially in academic publications/materials. 
 
