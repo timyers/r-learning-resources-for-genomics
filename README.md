@@ -196,6 +196,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [gt Tables](https://gt.rstudio.com/index.html) - With the `gt` package, anyone can make wonderful-looking *display* tables using the `R` programming language.
 - [How to Use System Commands in your R Script or Package](https://ropensci.org/blog/2021/09/13/system-calls-r-package/) - Learn the basics of using command-lines tools from within `R`.
 - [ARTofR Package](https://cran.r-project.org/web/packages/ARTofR/readme/README.html?s=09) - The {xxx_\*} family of functions offers a collection of stand-out comment lines that make different sections of `R` scripts easy to identify.
+- [potools](https://github.com/MichaelChirico/potools) - Tools for working with translations in `R`. 
 
 
 ### Contributing
