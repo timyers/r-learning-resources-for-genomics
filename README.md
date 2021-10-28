@@ -37,6 +37,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
 - [R Programming Examples](https://www.datamentor.io/r-programming/examples/) - This web resource contains examples on basic concepts of `R` programming.
+- [Using R for Common Scientific Tasks](https://github.com/etmckinley/Coffey-Lab-R-Tutorial) - `R` tutorial for common scientific data analysis and visualization tasks.  View slides related to this tutorial here: (https://raw.githack.com/etmckinley/Coffey-Lab-R-Tutorial/main/R-tutorial-xaringnan.html).
 
 ### Learn the Tidyverse
 - [Tidyverse](https://www.tidyverse.org/) - The tidyverse is a collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
