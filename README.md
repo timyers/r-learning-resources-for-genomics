@@ -226,6 +226,3 @@ Conduct](https://github.com/timyers/r-learning-resources-for-genomics/blob/main/
 By participating you agree to abide by its terms.
 
 Thank you!
-
-### References
-
