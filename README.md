@@ -38,6 +38,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
 - [R Programming Examples](https://www.datamentor.io/r-programming/examples/) - This web resource contains examples on basic concepts of `R` programming.
 - [Using R for Common Scientific Tasks](https://github.com/etmckinley/Coffey-Lab-R-Tutorial) - `R` tutorial for common scientific data analysis and visualization tasks.  View slides related to this tutorial here: (https://raw.githack.com/etmckinley/Coffey-Lab-R-Tutorial/main/R-tutorial-xaringnan.html).
+- [R Graphical User Interface Comparison](https://www.r-bloggers.com/2022/02/r-graphical-user-interface-comparison/) - A comparison of Graphical User interfaces for `R` posted on February 9, 2022 by Bob Muenchen in R bloggers.
 
 ### Learn the Tidyverse
 - [Tidyverse](https://www.tidyverse.org/) - The tidyverse is a collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
