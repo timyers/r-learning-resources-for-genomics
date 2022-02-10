@@ -40,6 +40,8 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Using R for Common Scientific Tasks](https://github.com/etmckinley/Coffey-Lab-R-Tutorial) - `R` tutorial for common scientific data analysis and visualization tasks.  View slides related to this tutorial here: (https://raw.githack.com/etmckinley/Coffey-Lab-R-Tutorial/main/R-tutorial-xaringnan.html).
 - [R Graphical User Interface Comparison](https://www.r-bloggers.com/2022/02/r-graphical-user-interface-comparison/) - A comparison of Graphical User interfaces for `R` posted on February 9, 2022 by Bob Muenchen in R bloggers.
 
+
+
 ### Learn the Tidyverse
 - [Tidyverse](https://www.tidyverse.org/) - The tidyverse is a collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
 - [R for Data Science (R4DS)](https://adv-r.hadley.nz/index.html) - This book by Hadley Wickham will teach you how to do data science with `R`. You’ll learn how to get your data into `R`, get it into the most useful structure, transform it, visualise it and model it.  It’s designed to take you from knowing nothing about `R` or the tidyverse to having all the basic tools of data science at your fingertips.  [Find exercise solutions for R4DS here.](https://jrnold.github.io/r4ds-exercise-solutions/)
@@ -73,9 +75,9 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
     +  Read and write **Parquet files**, 
     + Read and write **Feather files**
     +  Analyze, process, and write multi-file, larger-than-memory datasets.  [Click here for vignette.](https://arrow.apache.org/docs/r/articles/dataset.html)
-    +  Much, much more....
-<b>
-In order to learn how to use `arrow` in `R`, refer to the documentation [specific for the `R` environment](https://arrow.apache.org/docs/r/).
+    +  Much, much more.... 
+    <b>
+    In order to learn how to use `arrow` in `R`, refer to this [documentation specific for the `R` environment](https://arrow.apache.org/docs/r/).
 
 
 ### Finding Help with `R`
