@@ -40,7 +40,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Using R for Common Scientific Tasks](https://github.com/etmckinley/Coffey-Lab-R-Tutorial) - `R` tutorial for common scientific data analysis and visualization tasks.  View slides related to this tutorial here: (https://raw.githack.com/etmckinley/Coffey-Lab-R-Tutorial/main/R-tutorial-xaringnan.html).
 - [R Graphical User Interface Comparison](https://www.r-bloggers.com/2022/02/r-graphical-user-interface-comparison/) - A comparison of Graphical User interfaces for `R` posted on February 9, 2022 by Bob Muenchen in R bloggers.
 
-
+***
 
 ### Learn the Tidyverse
 - [Tidyverse](https://www.tidyverse.org/) - The tidyverse is a collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
@@ -55,6 +55,8 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Tidy Modeling with R](https://www.tmwr.org/?s=09) - This book is a guide to using a new collection of software in the `R` programming language for model building.
 - [ggside](https://github.com/jtlandis/ggside) - The `R` package `ggside` expands on the `ggplot2` package. This package allows the user to add graphical information about one of the main panel’s axis.
 - [Principal Component Analysis (PCA) with tidyverse](https://bjnnowak.netlify.app/2021/09/15/r-pca-with-tidyverse/?s=09) - A blog post by Benjamin Nowak to show how to use `tidyverse` tools and syntax to perform PCA.
+
+***
 
 ### Beyond the basics
 - [What They Forgot to Teach You About R](https://rstats.wtf/) - Free online resource by Jenny Bryan and Jim Hester.  The material is based on in-person workshops that focused on building holistic and project-oriented workflows that address the most common sources of friction in data analysis, outside of doing the statistical analysis itself.
@@ -79,6 +81,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
     <b>
     In order to learn how to use `arrow` in `R`, refer to this [documentation specific for the `R` environment](https://arrow.apache.org/docs/r/).
 
+***
 
 ### Finding Help with `R`
 
@@ -89,6 +92,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - `RStudio` cheatsheets make it easy to use some of our favorite `R` packages.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/r) - Find the best answers to your `R` questions and help others with theirs.
 
+***
 
 ### Continuous Learning
 - [TidyTuesday - A weekly social data project in R](https://thomasmock.netlify.app/post/tidytuesday-a-weekly-social-data-project-in-r/) - A weekly social data project in `R`.  Every Monday they release a new dataset on the [TidyTuesday Github page](https://github.com/rfordatascience/tidytuesday) for participants to clean, wrangle, tidy, and plot.
@@ -97,7 +101,8 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Keeping up to date with R news](https://masalmon.eu/2019/01/25/uptodate/) - Following `R` news helps you learn about new tools and their applications.
 - [RStudio Books](https://www.rstudio.com/resources/books/) - In addition to software tools, RStudio has also authored many books, some already highlighted in this curated list.  Another tool for your toolbox.
 
-
+***
+    
 ### Genomics
 - [Computational Genomics with R](https://compgenomr.github.io/book/index.html) - The aim of this online book is to provide the fundamentals for data analysis for genomics.  It contains practical and theoretical aspects of computational genomics.  Since computational genomics is interdisciplinary, this book aims to be accessible for biologists, medical scientists, computer scientists and people from other quantitative backgrounds.
 - [bigstatsr](https://privefl.github.io/bigstatsr/) - A package that provides functions for fast statistical analysis of large-scale data encoded as matrices. The package can handle matrices that are too large to fit in memory thanks to memory-mapping to binary files on disk.
@@ -115,6 +120,8 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Doing Meta Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) - This book serves as an accessible introduction into how meta-analyses can be conducted in `R`.
 - [The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html) - `R` for applied epidemiology and public health.  Written by epidemiologists, for epidemiologists.
 
+***
+    
 ### Statistics
 - [eastystats](https://github.com/easystats/easystats) - `easystats` is a collection of `R` packages that provides a consistent framework to harness `R` statistics.
 - [statsExpressions: Tidy dataframes and expressions with statistical details](https://indrajeetpatil.github.io/statsExpressions/) - This `R` package provides a consistent syntax to do statistical analysis with tidy data (in pipe-friendly manner) and provides statistical expressions (pre-formatted in-text statistical results) for plotting functions.
@@ -129,7 +136,8 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [gtsummary](https://github.com/ddsjoberg/gtsummary) - The `gtsummary` package creates publication-ready analytical and summary tables in `R`.
 - [factoextra : Extract and Visualize the Results of Multivariate Data Analyses](https://rpkgs.datanovia.com/factoextra/index.html) - `factoextra` is an R package that makes it easy to extract and visualize the output of exploratory multivariate data analyses, including: PCA, CA, MCA, MFA, HMFA and FAMD.
 
-
+***
+    
 ### Reproducibility
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) - The goal of `R for Reproducible Scientific Analysis` is to teach novice programmers to write modular code and best practices for using `R` for data analysis.
 - [Reproducible Research Data and Project Management in R](https://annakrystalli.me/rrresearchACCE20/) - A workshop that discusses `R` and `Rstudio` tools and conventions that offer a powerful framework for making modern, open, reproducible and collaborative computational workflows more accessible to researchers.
@@ -155,7 +163,8 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Containerize conda](https://github.com/grst/containerize-conda) - Instructions about how to package an existing environment into a Docker or Singularity container which should be more portable and can also easily be integrated into a fully reproducible data analysis workflow.
 - [conda-pack](https://conda.github.io/conda-pack/) - `Conda-pack` is a command line tool for creating archives of conda environments that can be installed on other systems and locations.  A tool like `conda-pack` is necessary because conda environments are not relocatable. Simply moving an environment to a different directory can render it partially or completely inoperable. `conda-pack` addresses this challenge by building archives from original conda package sources and reproducing conda’s own relocation logic.
 
-
+***
+    
 ### Markdown & R Markdown
 - [R Markdown from RStudio](https://rmarkdown.rstudio.com/lesson-1.html) - Getting started with `R Markdown`.
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) - `R Markdown` is a powerful tool for combining analysis and reporting into the same document.  This book provides practical and short examples to show the interesting and useful usage of R Markdown.
@@ -166,17 +175,23 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [List of featured books written with **bookdown**](https://bookdown.org/) -  A list of *featured* books published to [bookdown.org](https://bookdown.org/). Click [here](https://bookdown.org/home/archive/?s=09) for a list generated automatically and roughly ordered by date.
 - [RMarkdown Tips and Tricks](https://indrajeetpatil.github.io/RmarkdownTips/) - A collection of tweets by [Indrajeet Patil](https://github.com/IndrajeetPatil) containing tips and tricks related to [R Markdown](https://rmarkdown.rstudio.com/).
 
+***    
+    
 ### Anti-R
 - [jamovi](https://www.jamovi.org/) - A free and open-source point-and-click statistical program.  jamovi is built on top of the `R` statistical language making it easy to access the code underneath for your analysis. 
 - [JASP](https://jasp-stats.org/) - JASP is an open-source statistical package that uses a graphical interface to facilitate both Bayesian and Frequentist analyses.
 - [sandbox.bio](https://sandbox.bio/) - An interactive tool for learning bioinformatics command-line tools like bedtools, bowtie2, and samtools right from inside your web browser.
 - [Polygenic Risk Score (PRS) Tutorial](https://choishingwan.github.io/PRS-Tutorial/) - This tutorial provides a step-by-step guide to performing basic polygenic risk score (PRS) analyses.
 
+***    
+    
 ### Shiny
 - [Shiny from RStudio](https://shiny.rstudio.com/) - Get started with `Shiny`, an `R` package to build interactive web apps straight from `R`.
 - [Mastering Shiny](https://mastering-shiny.org/index.html) - The online version of the book by Hadley Wickham to get you writing `Shiny` apps quickly.
 - [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html) - A book for experienced `Shiny` users who want to learn more about the underlying web technologies.
 
+***    
+    
 ### Git and Version Control
 - [`Git`](https://git-scm.com/) is a useful tool for version control and [`GitHub`](https://github.com/) sits on top of `Git` and supports collaborative and distributed working.
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) - This article by Jennifer Bryan describes the use of the version control system Git and and the hosting site GitHub for statistical and data scientific workflows. Special attention is given to projects that use the statistical language R and, optionally, R Markdown documents.
@@ -188,7 +203,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github/) - GitHub now has [built-in support](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files) for [CITATION.cff](https://citation-file-format.github.io/) files. This new feature enables academics and researchers to let people know how to correctly cite their work, especially in academic publications/materials.
 - [Github actions with R](https://orchid00.github.io/actions_sandbox/) - Trigger [GitHub actions](https://github.com/features/actions) that allow you to automate steps after launching GitHub interactions such as when you push, pull, submit a pull request, or write an issue.
 
-
+***
 
 ### Other
 - [Making Your Code Citable](https://guides.github.com/activities/citable-code/#create) - If you’re a researcher writing software, this guide will show you how to make the work you share on GitHub citable by archiving one of your GitHub repositories and assigning a [Digital Object Identifiers](https://en.wikipedia.org/wiki/Digital_object_identifier) (DOI) with the data archiving tool [Zenodo](https://about.zenodo.org/).
@@ -202,7 +217,8 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Building a Data Package](https://higgi13425.github.io/medical_r/posts/2020-10-18-building-a-data-package/?s=09) - Building an `R` package to make datasets readily available.
 - [Awesome R package development](https://github.com/IndrajeetPatil/awesome-r-pkgtools?s=09) - A curated list of awesome tools to assist with `R` 📦 development.
 
-
+***
+    
 ### Miscellaneous
 
 - [HTTP testing in R](https://books.ropensci.org/http-testing/index.html) - This book is meant to be a free, central reference for developers of `R` packages accessing web resources.
@@ -218,7 +234,8 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [ARTofR Package](https://cran.r-project.org/web/packages/ARTofR/readme/README.html?s=09) - The {xxx_\*} family of functions offers a collection of stand-out comment lines that make different sections of `R` scripts easy to identify.
 - [potools](https://github.com/MichaelChirico/potools) - Tools for working with translations in `R`. 
 
-
+***
+    
 ### Contributing
 
 All are welcome to contribute to this curated list.  The best way is by
