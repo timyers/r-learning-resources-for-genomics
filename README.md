@@ -69,6 +69,13 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/) - This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs.
 - [Connecting to databases using R](https://db.rstudio.com/) - A resource from RStudio for connecting to databases.
 - [Awesome R Package Development](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome tools to assist R 📦 development.
+- [Apache Arrow](https://arrow.apache.org/docs/index.html) - Apache `Arrow` contains a set of technologies that enable big data systems to process and move data fast. The `arrow` package for `R` can:
+    +  Read and write **Parquet files**, 
+    + Read and write **Feather files**
+    +  Analyze, process, and write multi-file, larger-than-memory datasets.  [Click here for vignette.](https://arrow.apache.org/docs/r/articles/dataset.html)
+    +  Much, much more....
+<b>
+In order to learn how to use `arrow` in `R`, refer to the documentation [specific for the `R` environment](https://arrow.apache.org/docs/r/).
 
 
 ### Finding Help with `R`
