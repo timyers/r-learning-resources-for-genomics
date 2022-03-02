@@ -72,6 +72,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [tidyquery - SQL and R](https://github.com/ianmcook/tidyquery) - The `tidyquery` package runs SQL queries on `R` data frames.  For an introduction to tidyquery and queryparser, watch the recording of the talk [“Bridging the Gap between SQL and R"](https://www.youtube.com/watch?v=JwP5KdWSgqE) from rstudio::conf(2020).
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) - Geocomputation with `R` is for people who want to analyze, visualize and model geographic data.
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/) - This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs.
+- [Data Visualization - A practical introduction](https://socviz.co/index.html#preface) - A treasure trove of R-dataviz help by Kieran Healy.
 - [Connecting to databases using R](https://db.rstudio.com/) - A resource from RStudio for connecting to databases.
 - [Awesome R Package Development](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome tools to assist R 📦 development.
 - [Apache Arrow](https://arrow.apache.org/docs/index.html) - Apache `Arrow` contains a set of technologies that enable big data systems to process and move data fast. The `arrow` package for `R` can:
