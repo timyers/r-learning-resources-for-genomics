@@ -39,6 +39,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [R Programming Examples](https://www.datamentor.io/r-programming/examples/) - This web resource contains examples on basic concepts of `R` programming.
 - [Using R for Common Scientific Tasks](https://github.com/etmckinley/Coffey-Lab-R-Tutorial) - `R` tutorial for common scientific data analysis and visualization tasks.  View slides related to this tutorial here: (https://raw.githack.com/etmckinley/Coffey-Lab-R-Tutorial/main/R-tutorial-xaringnan.html).
 - [R Graphical User Interface Comparison](https://www.r-bloggers.com/2022/02/r-graphical-user-interface-comparison/) - A comparison of Graphical User interfaces for `R` posted on February 9, 2022 by Bob Muenchen in R bloggers.
+- [How to read an R help page](https://socviz.co/appendix.html?s=09#a-little-more-about-r) - "How to read an `R` help page" taken from [Data Visualization - A practical introduction](https://socviz.co/index.html#preface) by Kieran Healy.
 
 ***
 
