@@ -198,6 +198,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
     
 ### Git and Version Control
 - [`Git`](https://git-scm.com/) is a useful tool for version control and [`GitHub`](https://github.com/) sits on top of `Git` and supports collaborative and distributed working.
+- [Pro Git](http://git-scm.com/book/en/v2) - What is "version control" and why we should care?  This free online book by Scott Chacon and Ben Straub is explains it all. Dead tree versions are available ![image](https://user-images.githubusercontent.com/48717893/170250444-21fc793c-0ef0-4e8a-ad96-6b049ad5caf2.png).
 - [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159v2/) - This article by Jennifer Bryan describes the use of the version control system Git and and the hosting site GitHub for statistical and data scientific workflows. Special attention is given to projects that use the statistical language R and, optionally, R Markdown documents.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - An online book that introduces Git, GitHub and version control.
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Commit messages matter. Here's how to write them well, by Chris Beams.
