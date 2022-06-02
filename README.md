@@ -74,6 +74,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) - Geocomputation with `R` is for people who want to analyze, visualize and model geographic data.
 - [Data Visualization with R](https://rkabacoff.github.io/datavis/) - This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs.
 - [Data Visualization - A practical introduction](https://socviz.co/index.html#preface) - A treasure trove of R-dataviz help by Kieran Healy.
+- [gghighlight: An R package for improved visualization](https://cran.r-project.org/web/packages/gghighlight/vignettes/gghighlight.html) - Highlight lines and points in a `ggplot2` data visualization object. [An introductory YouTube video is available.](https://www.youtube.com/watch?v=1IHAZcumjkA) 
 - [Connecting to databases using R](https://db.rstudio.com/) - A resource from RStudio for connecting to databases.
 - [Awesome R Package Development](https://github.com/IndrajeetPatil/awesome-r-pkgtools) - A curated list of awesome tools to assist R 📦 development.
 - [Apache Arrow](https://arrow.apache.org/docs/index.html) - Apache `Arrow` contains a set of technologies that enable big data systems to process and move data fast. The `arrow` package for `R` can:
