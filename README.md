@@ -124,6 +124,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Doing Meta Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) - This book serves as an accessible introduction into how meta-analyses can be conducted in `R`.
 - [The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html) - `R` for applied epidemiology and public health.  Written by epidemiologists, for epidemiologists.
 - [chromoMap](https://cran.r-project.org/web/packages/chromoMap/vignettes/chromoMap.html) - `chromoMap`: an R package for interactive visualization of multi-omics data and annotation of chromosomes.
+- [maftools: Summarize, Analyze and Visualize MAF Files](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - This Bioconductor `R` package attempts to summarize, analyze, annotate and visualize Mutation Annotation Format (MAF) files in an efficient manner from either TCGA sources or any in-house studies as long as the data is in MAF format.
 
 ***
     
