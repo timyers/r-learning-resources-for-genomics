@@ -123,7 +123,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Survival Analysis in R](http://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html?s=09) - This tutorial provides an introduction to survival analysis and to conducting a survival analysis in `R`.  It was originally presented at the Memorial Sloan Kettering Cancer Center R-Presenters series on August 30, 2018 and updated March 2019.
 - [Doing Meta Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) - This book serves as an accessible introduction into how meta-analyses can be conducted in `R`.
 - [The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html) - `R` for applied epidemiology and public health.  Written by epidemiologists, for epidemiologists.
-- [chromoMap](https://cran.r-project.org/web/packages/chromoMap/vignettes/chromoMap.html) - The `chromoMap` R package provides interactive, configurable and elegant graphics visualization of chromosomes or chromosomal regions allowing users to map chromosome features (like genes,SNPs etc.) onto the chromosome and visualize the feature-associated data (like multi-omics data). 
+- [chromoMap](https://cran.r-project.org/web/packages/chromoMap/vignettes/chromoMap.html) - `chromoMap`: an R package for interactive visualization of multi-omics data and annotation of chromosomes
 
 ***
     
