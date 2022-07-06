@@ -81,7 +81,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
     +  Read and write **Parquet files**, 
     + Read and write **Feather files**
     +  Analyze, process, and write multi-file, larger-than-memory datasets.  [Click here for vignette.](https://arrow.apache.org/docs/r/articles/dataset.html)
-    +  Much, much more.... 
+    +  Much, much more.
     <b>
     In order to learn how to use `arrow` in `R`, refer to this [documentation specific for the `R` environment](https://arrow.apache.org/docs/r/).
 
