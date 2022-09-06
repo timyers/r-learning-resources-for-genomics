@@ -193,6 +193,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [sandbox.bio](https://sandbox.bio/) - An interactive tool for learning bioinformatics command-line tools like bedtools, bowtie2, and samtools right from inside your web browser.
 - [Polygenic Risk Score (PRS) Tutorial](https://choishingwan.github.io/PRS-Tutorial/) - This tutorial provides a step-by-step guide to performing basic polygenic risk score (PRS) analyses.
 - [R Graphical User Interface Comparison](https://www.r-bloggers.com/2022/02/r-graphical-user-interface-comparison/) - A comparison of Graphical User interfaces for `R` posted on February 9, 2022 by Bob Muenchen in R bloggers.
+ - [GrENEPipe](https://github.com/moiexpositoalonsolab/grenepipe) - Snakemake pipeline for variant calling from raw sample sequences.  One command to run the whole pipeline with many tools to choose from for each step.
 
 ***    
     
