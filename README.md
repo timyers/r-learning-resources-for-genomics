@@ -195,7 +195,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Polygenic Risk Score (PRS) Tutorial](https://choishingwan.github.io/PRS-Tutorial/) - This tutorial provides a step-by-step guide to performing basic polygenic risk score (PRS) analyses.
 - [R Graphical User Interface Comparison](https://www.r-bloggers.com/2022/02/r-graphical-user-interface-comparison/) - A comparison of Graphical User interfaces for `R` posted on February 9, 2022 by Bob Muenchen in R bloggers.
  - [GrENEPipe](https://github.com/moiexpositoalonsolab/grenepipe) - Snakemake pipeline for variant calling from raw sample sequences.  One command to run the whole pipeline with many tools to choose from for each step.
- - [iDEP: Integrated Differential Expression and Pathway analysis](http://bioinformatics.sdstate.edu/idep/) - Web interface for end-to-end bulk RNA-seq analysis.  Use it for basic QC thru pathway analysis and more.
+ - [iDEP: Integrated Differential Expression and Pathway analysis](http://bioinformatics.sdstate.edu/idep/) - Web interface for end-to-end bulk RNA-seq analysis.  Use it for basic QC thru pathway analysis and more.  See the helpful [YouTube tutorial video](https://www.youtube.com/watch?v=Hs5SamHHG9s).
 
 ***    
     
