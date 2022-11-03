@@ -126,6 +126,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [chromoMap](https://cran.r-project.org/web/packages/chromoMap/vignettes/chromoMap.html) - `chromoMap`: an R package for interactive visualization of multi-omics data and annotation of chromosomes.
 - [maftools: Summarize, Analyze and Visualize MAF Files](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - This Bioconductor `R` package attempts to summarize, analyze, annotate and visualize Mutation Annotation Format (MAF) files in an efficient manner from either TCGA sources or any in-house studies as long as the data is in MAF format.
 - [plotgardener](https://bioconductor.org/packages/release/bioc/vignettes/plotgardener/inst/doc/introduction_to_plotgardener.html) - `plotgardener` is a coordinate-based, genomic visualization package for `R`.
+- [42basepairs - File browser for public genomic data](https://42basepairs.com/) - A better way to explore genomics data in the cloud.
 
 ***
     
