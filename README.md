@@ -127,6 +127,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [maftools: Summarize, Analyze and Visualize MAF Files](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - This Bioconductor `R` package attempts to summarize, analyze, annotate and visualize Mutation Annotation Format (MAF) files in an efficient manner from either TCGA sources or any in-house studies as long as the data is in MAF format.
 - [plotgardener](https://bioconductor.org/packages/release/bioc/vignettes/plotgardener/inst/doc/introduction_to_plotgardener.html) - `plotgardener` is a coordinate-based, genomic visualization package for `R`.
 - [42basepairs - File browser for public genomic data](https://42basepairs.com/) - A better way to explore genomics data in the cloud.
+- [8 Resources to study Transcription factor binding, enhancers and histone modification distribution](https://crazyhottommy.blogspot.com/2022/11/8-resources-to-study-transcription.html) - A list of resources by Ming "Tommy" Tang, dated 2022-11-15.
 
 ***
     
