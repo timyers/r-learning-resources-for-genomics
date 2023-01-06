@@ -201,6 +201,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
  - [GrENEPipe](https://github.com/moiexpositoalonsolab/grenepipe) - Snakemake pipeline for variant calling from raw sample sequences.  One command to run the whole pipeline with many tools to choose from for each step.
  - [iDEP: Integrated Differential Expression and Pathway analysis](http://bioinformatics.sdstate.edu/idep/) - Web interface for end-to-end bulk RNA-seq analysis.  Use it for basic QC thru pathway analysis and more.  See the helpful [YouTube tutorial video](https://www.youtube.com/watch?v=Hs5SamHHG9s).
  - [ICARUS: Interactive single Cell RNA-seq Analysis with R shiny Using Seurat](https://launch.icarus-scrnaseq.cloud.edu.au/app/ICARUS) - A web application designed to guide the user through single cell RNA-seq analysis using the [Seurat scRNA-seq analysis toolkit](https://www.satijalab.org/seurat/) via a tutorial style interface.  Its purpose is to allow the user to interactively visualize single cell RNA-seq data without the requirement of previous R programming knowledge.
+ - [reticulate](https://rstudio.github.io/reticulate/) - The `reticulate` package provides a comprehensive set of tools for interoperability between Python and `R`. 
 
 ***    
     
