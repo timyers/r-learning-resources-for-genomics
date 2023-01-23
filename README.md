@@ -130,6 +130,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [9 tools for interactive exploring single-cell RNAseq data](https://crazyhottommy.blogspot.com/2022/11/9-tools-for-interactive-exploring.html) - A list of tools by Ming "Tommy" Tang, dated 2022-11-07.
 - [8 Resources to study Transcription factor binding, enhancers and histone modification distribution](https://crazyhottommy.blogspot.com/2022/11/8-resources-to-study-transcription.html) - A list of resources by Ming "Tommy" Tang, dated 2022-11-15.
 - [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/) - Teaches users common workflows for the analysis of singe-cell RNA-seq (scRNA-seq) data.
+- [ggplate](https://jpquast.github.io/ggplate/) - The `ggplate` package enables users to create simple plots of biological culture plates as well as microplates.
 
 ***
     
