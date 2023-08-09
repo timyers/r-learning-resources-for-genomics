@@ -165,7 +165,6 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [groundhog](http://groundhogr.com/using/) - Write `R` scripts that are reproducible using the `groundhog` package.
 - [renv](https://rstudio.github.io/renv/) - The `renv` package helps you create reproducible environments for `R` projects.
 - [Draw me a project](https://masalmon.eu/2021/06/30/r-projects/) - A great blog post by Maëlle Salmon about reproducibility.
-- [**MRAN** - The CRAN Time Machine](https://mran.microsoft.com/timemachine) - The Comprehensive R Archive Network (CRAN), maintained by the R Project, is updated frequently with new R packages & R releases at cran.r-project.org. Use the The Microsoft R Application Network (**MRAN**) Time Machine to browse daily CRAN snapshots as far back as Sept. 17, 2014. These snapshots provide reproducibility for Microsoft R Open (and older Revolution R Open) releases and the [checkpoint package](https://mran.microsoft.com/documents/rro/reproducibility#checkpointpkg).
 - [Docker](https://docs.docker.com/) - Get started with `Docker`.
 - [A Docker tutorial for reproducible research.](https://jsta.github.io/r-docker-tutorial/) - This is an introduction to Docker designed for participants with knowledge about R and RStudio.
 - [An Introduction to Docker for R Users](https://colinfay.me/docker-r-reproducibility/) - A quick introduction on using Docker for reproducibility in R, by Colin Fay.
