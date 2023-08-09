@@ -181,6 +181,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) - A free ebook on how using a few ideas from software engineering can help data scientists, analysts and researchers write reliable code, by Bruno Rodrigues (June 2023).
 - [Packaging data analytical work reproducibly using R (and friends)](https://peerj.com/preprints/3192v1/) - Using real-world examples, the authors show how researchers can improve the reproducibility of their work using research compendia based on R packages and related tools.
 - [Posit Public Package Manager](https://packagemanager.posit.co/client/#/) - Provides standard mirrors of CRAN, Bioconductor, and PyPI, and can track changes over time or freeze packages to specific versions, to help ensure reproducibility and ease collaboration.
+- [pracpac](https://signaturescience.github.io/pracpac/index.html) - Practical R Packaging with Docker.
 
 ***
     
