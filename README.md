@@ -182,6 +182,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Packaging data analytical work reproducibly using R (and friends)](https://peerj.com/preprints/3192v1/) - Using real-world examples, the authors show how researchers can improve the reproducibility of their work using research compendia based on R packages and related tools.
 - [Posit Public Package Manager](https://packagemanager.posit.co/client/#/) - Provides standard mirrors of CRAN, Bioconductor, and PyPI, and can track changes over time or freeze packages to specific versions, to help ensure reproducibility and ease collaboration.
 - [pracpac](https://signaturescience.github.io/pracpac/index.html) - Practical R Packaging with Docker.
+- [Data Skills for Reproducible Research](https://psyteachr.github.io/reprores-v3/index.html) - This book provides an overview of skills needed for reproducible and open research using the statistical programming language R and tidyverse packages.
 
 ***
     
