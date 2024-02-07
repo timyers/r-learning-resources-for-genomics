@@ -184,6 +184,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [pracpac](https://signaturescience.github.io/pracpac/index.html) - Practical R Packaging with Docker.
 - [Data Skills for Reproducible Research](https://psyteachr.github.io/reprores-v3/index.html) - This book provides an overview of skills needed for reproducible and open research using the statistical programming language R and tidyverse packages.
 - [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) - The aim of this book is to teach you how to use some of the best practices from software engineering and DevOps to make your projects robust, reliable and reproducible. By Bruno Rodrigues (2023 October).
+- [`rig` - The R Installation Manager](https://github.com/r-lib/rig?tab=readme-ov-file#id-macos-installer) - Make it easier to switch between multiple version of R on one computer.
 
 ***
     
