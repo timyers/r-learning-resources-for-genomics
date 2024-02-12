@@ -132,6 +132,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
 - [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/) - Teaches users common workflows for the analysis of singe-cell RNA-seq (scRNA-seq) data.
 - [ggplate](https://jpquast.github.io/ggplate/) - The `ggplate` package enables users to create simple plots of biological culture plates as well as microplates.
 - [CuratedAtlasQueryR](https://stemangiola.github.io/CuratedAtlasQueryR/) - `CuratedAtlasQueryR` is a query interface that allow the programmatic exploration and retrieval of the harmonised, curated and reannotated [CELLxGENE](https://github.com/chanzuckerberg/cellxgene) single-cell [Human Cell Atlas](https://www.humancellatlas.org/). Data can be retrieved at cell, sample, or dataset levels based on filtering criteria.
+- [Orchestrating Hi-C analysis with Bioconductor](https://bioconductor.org/books/devel/OHCA/) - The primary aim of this book is to introduce the R user to Hi-C analysis. This book starts with key concepts important for the analysis of chromatin conformation capture and then presents Bioconductor tools that can be leveraged to process, analyze, explore and visualize Hi-C data. By Jacques Serizay.
 
 ***
     
