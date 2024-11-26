@@ -84,6 +84,7 @@ Horst](https://github.com/allisonhorst/stats-illustrations) - CC BY 4.0
     +  Much, much more.
     <b>
     In order to learn how to use `arrow` in `R`, refer to this [documentation specific for the `R` environment](https://arrow.apache.org/docs/r/).
+- [Best Practice for `R` Cheatsheet](https://github.com/wurli/r-best-practice/blob/main/cheatsheet.pdf)
 
 ***
 
